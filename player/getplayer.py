@@ -15,7 +15,7 @@ class Test:
 
 class OneDay:
     """
-    get test records for specific player
+    get on day international records for specific player
     """
 
     def __init__(self, name):
@@ -30,7 +30,7 @@ class OneDay:
 
 class T20:
     """
-    get test records for specific player
+    get twenty-twenty international records for specific player
     """
 
     def __init__(self, name):
@@ -45,7 +45,7 @@ class T20:
 
 class ASeries:
     """
-    get test records for specific player
+    get A-series records for specific player
     """
 
     def __init__(self, name):
@@ -60,7 +60,7 @@ class ASeries:
 
 class FirstClass:
     """
-    get test records for specific player
+    get first class records for specific player
     """
 
     def __init__(self, name):
@@ -71,3 +71,18 @@ class FirstClass:
 
     def save(self):
         print('save player records.')
+
+
+def get_records_on(format='test', name=None):
+    """
+    get player records
+    :param format:
+    :param name:
+    :return:
+    """
+    formats = dict(test=Test(name),
+                   odi=OneDay(name),
+                   t20=T20(name),
+                   aseries=ASeries(name),
+                   firstclass=FirstClass(name))
+    return formats[format]
