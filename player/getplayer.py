@@ -1,3 +1,22 @@
+import requests
+import urllib3
+
+
+class Players:
+    def __init__(self, link):
+        self.player_page = link
+
+    def getter(self, player):
+        """
+        read url and return content
+        :param player: player name
+        :return: content
+        """
+        respond = requests.get(self.player_page)
+
+        return respond.content
+
+
 class Test:
     """
     get test records for specific player
