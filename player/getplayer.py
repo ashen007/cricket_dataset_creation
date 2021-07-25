@@ -12,9 +12,26 @@ class Players:
         :param player: player name
         :return: content
         """
-        respond = requests.get(self.player_page)
+        player_url = self.player_page + player
+        respond = requests.get(player_url)
 
-        return respond.content
+        if respond.status_code == 200:
+            return respond.content
+        elif respond.status_code == 404:
+            print('Not found.')
+        elif respond.status_code == 500:
+            print('Internal error.')
+
+    def get_player_stat(self, player):
+        stat_page = self.player_page + player + '/bowling-batting-stats'
+        respond = requests.get(stat_page)
+
+        if respond.status_code == 200:
+            return respond.content
+        elif respond.status_code == 404:
+            print('Not found.')
+        elif respond.status_code == 500:
+            print('Internal error.')
 
 
 class Test:
