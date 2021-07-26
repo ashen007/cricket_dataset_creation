@@ -1,8 +1,10 @@
 import requests
 import json
 import os
+import pandas as pd
 import urllib.error as error
 import urllib.parse as urlparse
+
 from bs4 import BeautifulSoup as bs
 from bs4 import SoupStrainer  #
 
@@ -17,7 +19,8 @@ class Players:
         :param player: player name
         :return: content
         """
-        player_url = urlparse.urljoin(f'{self.player_page}/player/', player)
+
+        player_url = urlparse.urljoin(f'{self.player_page}/player/', player_link)
 
         try:
             respond = requests.get(player_url)
@@ -159,6 +162,10 @@ def get_players(country, level='INTERNATIONAL'):
     full_url = base + country_filter + format_level_filter
 
     respond = requests.get(full_url).json()
+    link_list = [[player['objectId'],
+                  player['longName'],
+                  f'{player["slug"]}-{player["objectId"]}'] for player in respond['results']]
+    link_list = pd.DataFrame(link_list, columns=['objectId', 'longName', 'link'])
 
     try:
         if not os.path.exists(f'../data/{country}'):
@@ -174,6 +181,13 @@ def get_players(country, level='INTERNATIONAL'):
             json.dump(respond, file)
 
         print(f'{country} players record successfully saved.')
+
+    except FileNotFoundError:
+        print('file not found.')
+
+    try:
+        with open(f'../data/{country}/player_link_{level}.pkl', 'wb') as links:
+            link_list.to_pickle(links)
 
     except FileNotFoundError:
         print('file not found.')
