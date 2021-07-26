@@ -10,16 +10,24 @@ from bs4 import SoupStrainer  #
 
 
 class Players:
-    def __init__(self):
+    def __init__(self, country, level='INTERNATIONAL'):
         self.player_page = 'https://www.espncricinfo.com'
+        self.country = country
+        self.level = level
 
-    def get_player_dtl(self, country, player):
+    @property
+    def __player_links__(self):
+        if not os.path.exists(f'../data/{self.country}/player_link_{self.level}.pkl'):
+            get_players(self.country, self.level)
+
+        return pd.read_pickle(f'../data/{self.country}/player_link_{self.level}.pkl')
+
+    def get_player_dtl(self, player):
         """
         read url and return content
         :param player: player name
         :return: content
         """
-
         player_url = urlparse.urljoin(f'{self.player_page}/player/', player_link)
 
         try:
@@ -152,11 +160,10 @@ def get_countries(country):
 
 
 def get_players(country, level='INTERNATIONAL'):
-    base_url = 'https://www.espncricinfo.com'
+    RECORDS = 9999
     country_page = get_countries(country)[-1]
-    records = 9999
 
-    base = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/search?mode=BOTH&page=1&records={records}'
+    base = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/search?mode=BOTH&page=1&records={RECORDS}'
     country_filter = f'&filterTeamId={country_page}&'
     format_level_filter = f'filterFormatLevel={level}&sort=ALPHA_ASC&filterActive=true'
     full_url = base + country_filter + format_level_filter
