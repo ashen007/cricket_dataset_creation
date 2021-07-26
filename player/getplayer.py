@@ -1,10 +1,13 @@
 import requests
 import urllib.error as error
+import urllib.parse as urlparse
+from bs4 import BeautifulSoup as bs
+from bs4 import SoupStrainer  #
 
 
 class Players:
-    def __init__(self, link):
-        self.player_page = link
+    def __init__(self):
+        self.player_page = 'https://www.espncricinfo.com/player/'
 
     def getter(self, player):
         """
@@ -12,7 +15,7 @@ class Players:
         :param player: player name
         :return: content
         """
-        player_url = self.player_page + player
+        player_url = urlparse.urljoin(self.player_page, player)
 
         try:
             respond = requests.get(player_url)
@@ -27,7 +30,7 @@ class Players:
             print('Internal error.')
 
     def get_player_stat(self, player):
-        stat_page = self.player_page + player + '/bowling-batting-stats'
+        stat_page = urlparse.urljoin(self.player_page, f'{player}/bowling-batting-stats')
 
         try:
             respond = requests.get(stat_page)
@@ -130,3 +133,17 @@ def get_records_on(format='test', name=None):
                    aseries=ASeries(name),
                    firstclass=FirstClass(name))
     return formats[format]
+
+
+def get_countries():
+    player_page = 'https://www.espncricinfo.com/player/'
+
+    try:
+        respond = requests.get(player_page)
+    except error.URLError as e:
+        print('Error Occurred: ', e.reason)
+
+    nav = SoupStrainer('nav')
+    soup_nav = bs(respond, 'lxml', parse_only=nav)
+
+    return soup_nav
