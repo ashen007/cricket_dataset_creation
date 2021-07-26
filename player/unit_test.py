@@ -1,5 +1,6 @@
 import getplayer
 
-player = getplayer.Players()
+# test = getplayer.Players()
+# print(test.get_player_dtl('Sri Lanka', 'dinesh-chandimal-300628'))
 
-print(player.getter('joe-burns-326632'))
+print(getplayer.get_countries('Sri Lanka'))

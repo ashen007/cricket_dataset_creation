@@ -7,15 +7,15 @@ from bs4 import SoupStrainer  #
 
 class Players:
     def __init__(self):
-        self.player_page = 'https://www.espncricinfo.com/player/'
+        self.player_page = 'https://www.espncricinfo.com'
 
-    def getter(self, player):
+    def get_player_dtl(self, country, player):
         """
         read url and return content
         :param player: player name
         :return: content
         """
-        player_url = urlparse.urljoin(self.player_page, player)
+        player_url = urlparse.urljoin(f'{self.player_page}/player/', player)
 
         try:
             respond = requests.get(player_url)
@@ -30,7 +30,7 @@ class Players:
             print('Internal error.')
 
     def get_player_stat(self, player):
-        stat_page = urlparse.urljoin(self.player_page, f'{player}/bowling-batting-stats')
+        stat_page = urlparse.urljoin(self.player_page, f'/player/{player}/bowling-batting-stats')
 
         try:
             respond = requests.get(stat_page)
@@ -135,15 +135,12 @@ def get_records_on(format='test', name=None):
     return formats[format]
 
 
-def get_countries():
+def get_countries(country):
     player_page = 'https://www.espncricinfo.com/player/'
-
-    try:
-        respond = requests.get(player_page)
-    except error.URLError as e:
-        print('Error Occurred: ', e.reason)
-
+    respond = requests.get(player_page).content
     nav = SoupStrainer('nav')
-    soup_nav = bs(respond, 'lxml', parse_only=nav)
+    sub_nav = bs(respond, 'lxml', parse_only=nav).find('nav', attrs={'class': 'sub-navbar'})
+    country_pages = sub_nav.find_all('a', attrs={'class': 'nav-link'})
+    countries = {tag.text: tag.get('href') for tag in country_pages[1:-3]}
 
-    return soup_nav
+    return countries[country]
