@@ -1,4 +1,6 @@
 import requests
+import json
+import os
 import urllib.error as error
 import urllib.parse as urlparse
 from bs4 import BeautifulSoup as bs
@@ -141,6 +143,37 @@ def get_countries(country):
     nav = SoupStrainer('nav')
     sub_nav = bs(respond, 'lxml', parse_only=nav).find('nav', attrs={'class': 'sub-navbar'})
     country_pages = sub_nav.find_all('a', attrs={'class': 'nav-link'})
-    countries = {tag.text: tag.get('href') for tag in country_pages[1:-3]}
+    countries = {tag.text: tag.get('href') for tag in country_pages[1:-2]}
 
     return countries[country]
+
+
+def get_players(country, level='INTERNATIONAL'):
+    base_url = 'https://www.espncricinfo.com'
+    country_page = get_countries(country)[-1]
+    records = 9999
+
+    base = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/search?mode=BOTH&page=1&records={records}'
+    country_filter = f'&filterTeamId={country_page}&'
+    format_level_filter = f'filterFormatLevel={level}&sort=ALPHA_ASC&filterActive=true'
+    full_url = base + country_filter + format_level_filter
+
+    respond = requests.get(full_url).json()
+
+    try:
+        if not os.path.exists(f'../data/{country}'):
+            os.makedirs(f'../data/{country}')
+
+        print(f'{country} folder created.')
+
+    except OSError:
+        print(f"can't create this /{country} folder.")
+
+    try:
+        with open(f'../data/{country}/player_{level}.json', 'w') as file:
+            json.dump(respond, file)
+
+        print(f'{country} players record successfully saved.')
+
+    except FileNotFoundError:
+        print('file not found.')
