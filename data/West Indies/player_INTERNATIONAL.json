@@ -1,1 +1,3495 @@
-{"total": 73, "results": [{"id": 72385, "objectId": 670013, "name": "FA Allen", "longName": "Fabian Allen", "mobileName": "Allen", "indexName": "Allen, FA", "battingName": "FA Allen", "fieldingName": "Allen", "slug": "fabian-allen", "gender": "M", "playingRole": "bowling allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["sla"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["slow left-arm orthodox"], "image": {"id": 300765, "objectId": 1216841, "slug": "fabian-allen-player-portrait", "url": "/db/PICTURES/CMS/300700/300765.1.jpg", "width": 160, "height": 207, "caption": "Fabian Allen player portrait", "longCaption": "Fabian Allen player portrait", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowling allrounder"], "dateOfBirth": {"year": 1995, "month": 5, "date": 7}, "dateOfDeath": null}, {"id": 72075, "objectId": 661441, "name": "AA Alleyne", "longName": "Aaliyah Alleyne", "mobileName": "Alleyne", "indexName": "Alleyne, AA", "battingName": "AA Alleyne", "fieldingName": "Alleyne", "slug": "aaliyah-alleyne", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 306128, "objectId": 1226333, "slug": "aaliyah-alleyne-portrait", "url": "/db/PICTURES/CMS/306100/306128.png", "width": 160, "height": 201, "caption": "Aaliyah Alleyne portrait", "longCaption": "Aaliyah Alleyne portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1994, "month": 11, "date": 11}, "dateOfDeath": null}, {"id": 56830, "objectId": 348054, "name": "SW Ambris", "longName": "Sunil Ambris", "mobileName": "Ambris", "indexName": "Ambris, SW", "battingName": "SW Ambris", "fieldingName": "Ambris", "slug": "sunil-ambris", "gender": "M", "playingRole": "opening batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 136581, "objectId": 530817, "slug": "sunil-ambris", "url": "/db/PICTURES/CMS/136500/136581.1.jpg", "width": 160, "height": 200, "caption": "Sunil Ambris", "longCaption": "Sunil Ambris", "credit": "WindiesCricket.com", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1993, "month": 3, "date": 23}, "dateOfDeath": null}, {"id": 61417, "objectId": 431909, "name": "J Blackwood", "longName": "Jermaine Blackwood", "mobileName": "Blackwood", "indexName": "Blackwood, J", "battingName": "J Blackwood", "fieldingName": "Blackwood", "slug": "jermaine-blackwood", "gender": "M", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 305910, "objectId": 1225942, "slug": "jermaine-blackwood-player-portrait", "url": "/db/PICTURES/CMS/305900/305910.1.jpg", "width": 160, "height": 200, "caption": "Jermaine Blackwood player portrait", "longCaption": "Jermaine Blackwood player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1991, "month": 11, "date": 20}, "dateOfDeath": null}, {"id": 53396, "objectId": 314650, "name": "NE Bonner", "longName": "Nkrumah Bonner", "mobileName": "Bonner", "indexName": "Bonner, NE", "battingName": "NE Bonner", "fieldingName": "Bonner", "slug": "nkrumah-bonner", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["lb"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["legbreak"], "image": {"id": 316082, "objectId": 1249949, "slug": "nkrumah-bonner-portrait", "url": "/db/PICTURES/CMS/316000/316082.png", "width": 160, "height": 199, "caption": "Nkrumah Bonner portrait", "longCaption": "Nkrumah Bonner portrait, February 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1989, "month": 1, "date": 23}, "dateOfDeath": null}, {"id": 56801, "objectId": 348024, "name": "KC Brathwaite", "longName": "Kraigg Brathwaite", "mobileName": "Brathwaite", "indexName": "Brathwaite, KC", "battingName": "KC Brathwaite", "fieldingName": "Brathwaite", "slug": "kraigg-brathwaite", "gender": "M", "playingRole": "opening batter", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 305917, "objectId": 1225949, "slug": "kraigg-brathwaite-player-portrait", "url": "/db/PICTURES/CMS/305900/305917.1.jpg", "width": 160, "height": 200, "caption": "Kraigg Brathwaite player portrait", "longCaption": "Kraigg Brathwaite player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1992, "month": 12, "date": 1}, "dateOfDeath": null}, {"id": 45257, "objectId": 51439, "name": "DJ Bravo", "longName": "Dwayne Bravo", "mobileName": "Bravo", "indexName": "Bravo, DJ", "battingName": "DJ Bravo", "fieldingName": "Bravo", "slug": "dwayne-bravo", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 309099, "objectId": 1232616, "slug": "dwayne-bravo-portrait", "url": "/db/PICTURES/CMS/309000/309099.png", "width": 160, "height": 200, "caption": "Dwayne Bravo portrait", "longCaption": "Dwayne Bravo portrait, September 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1983, "month": 10, "date": 7}, "dateOfDeath": null}, {"id": 51054, "objectId": 277472, "name": "DM Bravo", "longName": "Darren Bravo", "mobileName": "Bravo", "indexName": "Bravo, DM", "battingName": "DM Bravo", "fieldingName": "Bravo", "slug": "darren-bravo", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["lhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 203309, "objectId": 818711, "slug": "darren-bravo", "url": "/db/PICTURES/CMS/203300/203309.1.jpg", "width": 160, "height": 192, "caption": "Darren Bravo", "longCaption": "Darren Bravo", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1989, "month": 2, "date": 6}, "dateOfDeath": null}, {"id": 49036, "objectId": 230555, "name": "SSJ Brooks", "longName": "Shamarh Brooks", "mobileName": "Brooks", "indexName": "Brooks, SSJ", "battingName": "SSJ Brooks", "fieldingName": "Brooks", "slug": "shamarh-brooks", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["lb"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["legbreak"], "image": {"id": 305918, "objectId": 1225950, "slug": "shamarh-brooks-player-portrait", "url": "/db/PICTURES/CMS/305900/305918.1.jpg", "width": 160, "height": 200, "caption": "Shamarh Brooks player portrait", "longCaption": "Shamarh Brooks player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1988, "month": 10, "date": 1}, "dateOfDeath": null}, {"id": 56803, "objectId": 348026, "name": "JD Campbell", "longName": "John Campbell", "mobileName": "Campbell", "indexName": "Campbell, JD", "battingName": "JD Campbell", "fieldingName": "Campbell", "slug": "john-campbell", "gender": "M", "playingRole": "opening batter", "battingStyles": ["lhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 316117, "objectId": 1250025, "slug": "john-campbell-portrait", "url": "/db/PICTURES/CMS/316100/316117.png", "width": 160, "height": 202, "caption": "John Campbell portrait", "longCaption": "John Campbell portrait, Februay 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1993, "month": 9, "date": 21}, "dateOfDeath": null}, {"id": 60763, "objectId": 424631, "name": "SA Campbelle", "longName": "Shemaine Campbelle", "mobileName": "Campbelle", "indexName": "Campbelle, SA", "battingName": "SA Campbelle", "fieldingName": "Campbelle", "slug": "shemaine-campbelle", "gender": "F", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 306631, "objectId": 1227353, "slug": "shemaine-campbelle-portrait", "url": "/db/PICTURES/CMS/306600/306631.png", "width": 160, "height": 198, "caption": "Shemaine Campbelle portrait", "longCaption": "Shemaine Campbelle portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1992, "month": 10, "date": 14}, "dateOfDeath": null}, {"id": 59349, "objectId": 391832, "name": "RL Chase", "longName": "Roston Chase", "mobileName": "Chase", "indexName": "Chase, RL", "battingName": "RL Chase", "fieldingName": "Chase", "slug": "roston-chase", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 305909, "objectId": 1225941, "slug": "roston-chase-player-portrait", "url": "/db/PICTURES/CMS/305900/305909.1.jpg", "width": 160, "height": 200, "caption": "Roston Chase player portrait", "longCaption": "Roston Chase player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1992, "month": 3, "date": 22}, "dateOfDeath": null}, {"id": 63339, "objectId": 474191, "name": "SS Connell", "longName": "Shamilia Connell", "mobileName": "Connell", "indexName": "Connell, SS", "battingName": "SS Connell", "fieldingName": "Connell", "slug": "shamilia-connell", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 306700, "objectId": 1227467, "slug": "shamilia-connell-portrait", "url": "/db/PICTURES/CMS/306700/306700.png", "width": 160, "height": 201, "caption": "Shamilia Connell portrait", "longCaption": "Shamilia Connell portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1992, "month": 7, "date": 14}, "dateOfDeath": null}, {"id": 60761, "objectId": 424629, "name": "B Cooper", "longName": "Britney Cooper", "mobileName": "Cooper", "indexName": "Cooper, B", "battingName": "B Cooper", "fieldingName": "Cooper", "slug": "britney-cooper", "gender": "F", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 306133, "objectId": 1226338, "slug": "britney-cooper-portrait", "url": "/db/PICTURES/CMS/306100/306133.png", "width": 160, "height": 201, "caption": "Britney Cooper portrait", "longCaption": "Britney Cooper portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1989, "month": 8, "date": 23}, "dateOfDeath": null}, {"id": 64418, "objectId": 494581, "name": "RRS Cornwall", "longName": "Rahkeem Cornwall", "mobileName": "Cornwall", "indexName": "Cornwall, RRS", "battingName": "RRS Cornwall", "fieldingName": "Cornwall", "slug": "rahkeem-cornwall", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 316114, "objectId": 1250022, "slug": "rahkeem-cornwall-portrait", "url": "/db/PICTURES/CMS/316100/316114.png", "width": 160, "height": 200, "caption": "Rahkeem Cornwall portrait", "longCaption": "Rahkeem Cornwall portrait, February 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1993, "month": 2, "date": 1}, "dateOfDeath": null}, {"id": 64443, "objectId": 495551, "name": "SS Cottrell", "longName": "Sheldon Cottrell", "mobileName": "Cottrell", "indexName": "Cottrell, SS", "battingName": "SS Cottrell", "fieldingName": "Cottrell", "slug": "sheldon-cottrell", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["lfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["left-arm fast-medium"], "image": {"id": 232765, "objectId": 966407, "slug": "sheldon-cottrell-profile-photo", "url": "/db/PICTURES/CMS/232700/232765.jpg", "width": 160, "height": 200, "caption": "Sheldon Cottrell profile photo", "longCaption": "Sheldon Cottrell profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1989, "month": 8, "date": 19}, "dateOfDeath": null}, {"id": 104283, "objectId": 1168667, "name": "J Da Silva", "longName": "Joshua Da Silva", "mobileName": "Da Silva", "indexName": "Da Silva,J", "battingName": "J Da Silva", "fieldingName": "Da Silva", "slug": "joshua-da-silva", "gender": "M", "playingRole": "wicketkeeper batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 316113, "objectId": 1250021, "slug": "joshua-da-silva-portrait", "url": "/db/PICTURES/CMS/316100/316113.png", "width": 160, "height": 199, "caption": "Joshua Da Silva portrait", "longCaption": "Joshua Da Silva portrait, February 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1998, "month": 6, "date": 19}, "dateOfDeath": null}, {"id": 57201, "objectId": 355349, "name": "DJS Dottin", "longName": "Deandra Dottin", "mobileName": "Dottin", "indexName": "Dottin, DJS", "battingName": "DJS Dottin", "fieldingName": "Dottin", "slug": "deandra-dottin", "gender": "F", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 306622, "objectId": 1227344, "slug": "deandra-dottin-portrait", "url": "/db/PICTURES/CMS/306600/306622.png", "width": 160, "height": 201, "caption": "Deandra Dottin portrait", "longCaption": "Deandra Dottin portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1991, "month": 6, "date": 21}, "dateOfDeath": null}, {"id": 61416, "objectId": 431905, "name": "SO Dowrich", "longName": "Shane Dowrich", "mobileName": "Dowrich", "indexName": "Dowrich, SO", "battingName": "SO Dowrich", "fieldingName": "Dowrich", "slug": "shane-dowrich", "gender": "M", "playingRole": "wicketkeeper batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 214751, "objectId": 883991, "slug": "shane-dowrich", "url": "/db/PICTURES/CMS/214700/214751.1.jpg", "width": 160, "height": 191, "caption": "Shane Dowrich", "longCaption": "Shane Dowrich", "credit": "WICB Media Photo/Randy Brooks", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1991, "month": 10, "date": 30}, "dateOfDeath": null}, {"id": 45774, "objectId": 51782, "name": "FH Edwards", "longName": "Fidel Edwards", "mobileName": "Edwards", "indexName": "Edwards, FH", "battingName": "FH Edwards", "fieldingName": "Edwards", "slug": "fidel-edwards", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 296195, "objectId": 1204817, "slug": "fidel-edwards-player-profile", "url": "/db/PICTURES/CMS/296100/296195.1.jpg", "width": 160, "height": 200, "caption": "Fidel Edwards player profile", "longCaption": "Fidel Edwards player profile", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1982, "month": 2, "date": 6}, "dateOfDeath": null}, {"id": 47602, "objectId": 51862, "name": "ADS Fletcher", "longName": "Andre Fletcher", "mobileName": "Fletcher", "indexName": "Fletcher, ADS", "battingName": "ADS Fletcher", "fieldingName": "Fletcher", "slug": "andre-fletcher", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rmf", "lb"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast", "legbreak"], "image": {"id": 238341, "objectId": 990015, "slug": "andre-fletcher-player-portrait", "url": "/db/PICTURES/CMS/238300/238341.jpg", "width": 160, "height": 200, "caption": "Andre Fletcher, player portrait", "longCaption": "Andre Fletcher, player portrait", "credit": "IDI/Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1987, "month": 11, "date": 28}, "dateOfDeath": null}, {"id": 57202, "objectId": 355351, "name": "ASS Fletcher", "longName": "Afy Fletcher", "mobileName": "Fletcher", "indexName": "Fletcher, ASS", "battingName": "ASS Fletcher", "fieldingName": "Fletcher", "slug": "afy-fletcher", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["lb"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["legbreak"], "image": {"id": 306129, "objectId": 1226334, "slug": "afy-fletcher-portrait", "url": "/db/PICTURES/CMS/306100/306129.png", "width": 160, "height": 201, "caption": "Afy Fletcher portrait", "longCaption": "Afy Fletcher portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1987, "month": 3, "date": 17}, "dateOfDeath": null}, {"id": 107403, "objectId": 1214080, "name": "CS Fraser", "longName": "Cherry-Ann Fraser", "mobileName": "Fraser", "indexName": "Fraser, CS", "battingName": "CS Fraser", "fieldingName": "Fraser", "slug": "cherry-ann-fraser", "gender": "F", "playingRole": "allrounder", "battingStyles": ["lhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 306618, "objectId": 1227340, "slug": "cherry-ann-fraser-portrait", "url": "/db/PICTURES/CMS/306600/306618.png", "width": 160, "height": 199, "caption": "Cherry Ann Fraser portrait", "longCaption": "Cherry Ann Fraser portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1999, "month": 7, "date": 21}, "dateOfDeath": null}, {"id": 61982, "objectId": 446101, "name": "ST Gabriel", "longName": "Shannon Gabriel", "mobileName": "Gabriel", "indexName": "Gabriel, ST", "battingName": "ST Gabriel", "fieldingName": "Gabriel", "slug": "shannon-gabriel", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 145199, "objectId": 563011, "slug": "shannon-gabriel", "url": "/db/PICTURES/CMS/145100/145199.1.jpg", "width": 160, "height": 192, "caption": "Shannon Gabriel", "longCaption": "Shannon Gabriel", "credit": "Brooks LaTouche Photography/WICB", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1988, "month": 4, "date": 28}, "dateOfDeath": null}, {"id": 106346, "objectId": 1199630, "name": "S Gajnabi", "longName": "Shabika Gajnabi", "mobileName": "Gajnabi", "indexName": "Gajnabi, S", "battingName": "S Gajnabi", "fieldingName": "Gajnabi", "slug": "shabika-gajnabi", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 311991, "objectId": 1238897, "slug": "shabika-gajnabi-player-portrait", "url": "/db/PICTURES/CMS/311900/311991.16.jpg", "width": 160, "height": 304, "caption": "Shabika Gajnabi, player portrait", "longCaption": "Shabika Gajnabi, player portrait", "credit": "Getty Images", "photographer": "Gareth Copley", "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 2000, "month": 7, "date": 14}, "dateOfDeath": null}, {"id": 7568, "objectId": 51880, "name": "CH Gayle", "longName": "Chris Gayle", "mobileName": "Gayle", "indexName": "Gayle, CH", "battingName": "CH Gayle", "fieldingName": "Gayle", "slug": "chris-gayle", "gender": "M", "playingRole": "allrounder", "battingStyles": ["lhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 309058, "objectId": 1232572, "slug": "chris-gayle-portrait", "url": "/db/PICTURES/CMS/309000/309058.png", "width": 160, "height": 200, "caption": "Chris Gayle portrait", "longCaption": "Chris Gayle portrait, September 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1979, "month": 9, "date": 21}, "dateOfDeath": null}, {"id": 83969, "objectId": 909779, "name": "SS Grimmond", "longName": "Sheneta Grimmond", "mobileName": "Grimmond", "indexName": "Grimmond, SS", "battingName": "SS Grimmond", "fieldingName": "Grimmond", "slug": "sheneta-grimmond", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 306630, "objectId": 1227352, "slug": "sheneta-grimmond-portrait", "url": "/db/PICTURES/CMS/306600/306630.png", "width": 160, "height": 200, "caption": "Sheneta Grimmond portrait", "longCaption": "Sheneta Grimmond portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1998, "month": 8, "date": 9}, "dateOfDeath": null}, {"id": 55111, "objectId": 332937, "name": "JN Hamilton", "longName": "Jahmar Hamilton", "mobileName": "Hamilton", "indexName": "Hamilton, JN", "battingName": "JN Hamilton", "fieldingName": "Hamilton", "slug": "jahmar-hamilton", "gender": "M", "playingRole": "wicketkeeper batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 86232, "objectId": 335083, "slug": "jahmar-hamilton-player-portrait", "url": "/db/PICTURES/CMS/86200/86232.1.jpg", "width": 160, "height": 200, "caption": "Jahmar Hamilton, player portrait", "longCaption": "Jahmar Hamilton, player portrait", "credit": "Stanford 20/20", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1990, "month": 9, "date": 22}, "dateOfDeath": null}, {"id": 83889, "objectId": 906755, "name": "KJ Harding", "longName": "Keon Harding", "mobileName": "Harding", "indexName": "Harding, KJ", "battingName": "KJ Harding", "fieldingName": "Harding", "slug": "keon-harding", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 305920, "objectId": 1225955, "slug": "keon-harding-player-portrait", "url": "/db/PICTURES/CMS/305900/305920.1.jpg", "width": 160, "height": 200, "caption": "Keon Harding player portrait", "longCaption": "Keon Harding player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1996, "month": 11, "date": 1}, "dateOfDeath": null}, {"id": 63338, "objectId": 474190, "name": "CA Henry", "longName": "Chinelle Henry", "mobileName": "Henry", "indexName": "Henry, CA", "battingName": "CA Henry", "fieldingName": "Henry", "slug": "chinelle-henry", "gender": "F", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 306619, "objectId": 1227341, "slug": "chinelle-henry-portrait", "url": "/db/PICTURES/CMS/306600/306619.png", "width": 160, "height": 199, "caption": "Chinelle Henry portrait", "longCaption": "Chinelle Henry portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1995, "month": 8, "date": 17}, "dateOfDeath": null}, {"id": 72393, "objectId": 670025, "name": "SO Hetmyer", "longName": "Shimron Hetmyer", "mobileName": "Hetmyer", "indexName": "Hetmyer, SO", "battingName": "SO Hetmyer", "fieldingName": "Hetmyer", "slug": "shimron-hetmyer", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["lhb"], "bowlingStyles": [], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": [], "image": {"id": 309101, "objectId": 1232618, "slug": "shimron-hetmyer-portrait", "url": "/db/PICTURES/CMS/309100/309101.png", "width": 160, "height": 201, "caption": "Shimron Hetmyer portrait", "longCaption": "Shimron Hetmyer portrait, September 2020", "credit": "BCCI", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1996, "month": 12, "date": 26}, "dateOfDeath": null}, {"id": 59339, "objectId": 391485, "name": "JO Holder", "longName": "Jason Holder", "mobileName": "Holder", "indexName": "Holder, JO", "battingName": "JO Holder", "fieldingName": "Holder", "slug": "jason-holder", "gender": "M", "playingRole": "bowling allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 214757, "objectId": 883997, "slug": "jason-holder", "url": "/db/PICTURES/CMS/214700/214757.1.jpg", "width": 160, "height": 192, "caption": "Jason Holder", "longCaption": "Jason Holder", "credit": "WICB Media Photo/Randy Brooks", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowling allrounder"], "dateOfBirth": {"year": 1991, "month": 11, "date": 5}, "dateOfDeath": null}, {"id": 84179, "objectId": 914519, "name": "CK Holder", "longName": "Chemar Holder", "mobileName": "Holder", "indexName": "Holder,CK", "battingName": "CK Holder", "fieldingName": "Holder", "slug": "chemar-holder", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 305908, "objectId": 1225940, "slug": "chemar-holder-player-portrait", "url": "/db/PICTURES/CMS/305900/305908.1.jpg", "width": 160, "height": 200, "caption": "Chemar Holder player portrait", "longCaption": "Chemar Holder player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1998, "month": 3, "date": 3}, "dateOfDeath": null}, {"id": 68405, "objectId": 581379, "name": "SD Hope", "longName": "Shai Hope", "mobileName": "Hope", "indexName": "Hope, SD", "battingName": "SD Hope", "fieldingName": "Hope", "slug": "shai-hope", "gender": "M", "playingRole": "wicketkeeper batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 305915, "objectId": 1225947, "slug": "shai-hope-player-portrait", "url": "/db/PICTURES/CMS/305900/305915.1.jpg", "width": 160, "height": 200, "caption": "Shai Hope player portrait", "longCaption": "Shai Hope player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1993, "month": 11, "date": 10}, "dateOfDeath": null}, {"id": 66259, "objectId": 530812, "name": "AJ Hosein", "longName": "Akeal Hosein", "mobileName": "Hosein", "indexName": "Hosein, AJ", "battingName": "AJ Hosein", "fieldingName": "Hosein", "slug": "akeal-hosein", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["sla"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["slow left-arm orthodox"], "image": {"id": 321939, "objectId": 1264222, "slug": "akeal-hosein-player-page-headshot-cutout-2021", "url": "/db/PICTURES/CMS/321900/321939.png", "width": 600, "height": 436, "caption": "Akeal Hosein player page headshot cutout, 2021", "longCaption": "Akeal Hosein player page headshot cutout, 2021", "credit": null, "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1993, "month": 4, "date": 25}, "dateOfDeath": null}, {"id": 106785, "objectId": 1205544, "name": "C Isaac", "longName": "Caneisha Isaac", "mobileName": "Isaac", "indexName": "Isaac, C", "battingName": "C Isaac", "fieldingName": "Isaac", "slug": "caneisha-isaac", "gender": "F", "playingRole": "bowler", "battingStyles": [], "bowlingStyles": [], "longBattingStyles": [], "longBowlingStyles": [], "image": {"id": 296534, "objectId": 1205867, "slug": "caneisha-isaac-player-portrait", "url": "/db/PICTURES/CMS/296500/296534.1.jpg", "width": 160, "height": 199, "caption": "Caneisha Isaac player portrait", "longCaption": "Caneisha Isaac player portrait", "credit": "WICB", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": null, "dateOfDeath": null}, {"id": 72397, "objectId": 670031, "name": "AS Joseph", "longName": "Alzarri Joseph", "mobileName": "Joseph", "indexName": "Joseph, AS", "battingName": "AS Joseph", "fieldingName": "Joseph", "slug": "alzarri-joseph", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 321943, "objectId": 1264229, "slug": "alzarri-joseph-player-page-headshot-cutout-2021", "url": "/db/PICTURES/CMS/321900/321943.png", "width": 600, "height": 436, "caption": "Alzarri Joseph player page headshot cutout, 2021", "longCaption": "Alzarri Joseph player page headshot cutout, 2021", "credit": null, "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1996, "month": 11, "date": 20}, "dateOfDeath": null}, {"id": 72399, "objectId": 670035, "name": "BA King", "longName": "Brandon King", "mobileName": "King", "indexName": "King, BA", "battingName": "BA King", "fieldingName": "King", "slug": "brandon-king", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 232775, "objectId": 966419, "slug": "brandon-king-profile-photo", "url": "/db/PICTURES/CMS/232700/232775.jpg", "width": 160, "height": 200, "caption": "Brandon King profile photo", "longCaption": "Brandon King profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1994, "month": 12, "date": 16}, "dateOfDeath": null}, {"id": 57204, "objectId": 355354, "name": "LAGL Kirby", "longName": "Lee-Ann Kirby", "mobileName": "Kirby", "indexName": "Kirby, LAGL", "battingName": "LAGL Kirby", "fieldingName": "Kirby", "slug": "lee-ann-kirby", "gender": "F", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rsm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm slow-medium"], "image": {"id": 306646, "objectId": 1227375, "slug": "lee-ann-kirby-portrait", "url": "/db/PICTURES/CMS/306600/306646.png", "width": 160, "height": 200, "caption": "Lee Ann Kirby portrait", "longCaption": "Lee Ann Kirby portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1987, "month": 4, "date": 7}, "dateOfDeath": null}, {"id": 63305, "objectId": 472977, "name": "Kyshona A Knight", "longName": "Kyshona Knight", "mobileName": "", "indexName": "Knight, Kyshona A", "battingName": "Kyshona A Knight", "fieldingName": "", "slug": "kyshona-knight", "gender": "F", "playingRole": "", "battingStyles": ["lhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 306645, "objectId": 1227374, "slug": "kyshona-knight-portrait", "url": "/db/PICTURES/CMS/306600/306645.png", "width": 160, "height": 200, "caption": "Kyshona Knight portrait", "longCaption": "Kyshona Knight portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": [], "dateOfBirth": {"year": 1992, "month": 2, "date": 19}, "dateOfDeath": null}, {"id": 63304, "objectId": 472975, "name": "Kycia A Knight", "longName": "Kycia Knight", "mobileName": "", "indexName": "Kycia A Knight", "battingName": "Kycia A Knight", "fieldingName": "", "slug": "kycia-knight", "gender": "F", "playingRole": "wicketkeeper batter", "battingStyles": ["lhb"], "bowlingStyles": [], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": [], "image": {"id": 306644, "objectId": 1227373, "slug": "kycia-knight-portrait", "url": "/db/PICTURES/CMS/306600/306644.png", "width": 160, "height": 199, "caption": "Kycia Knight portrait", "longCaption": "Kycia Knight portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1992, "month": 2, "date": 19}, "dateOfDeath": null}, {"id": 61413, "objectId": 431901, "name": "E Lewis", "longName": "Evin Lewis", "mobileName": "Lewis", "indexName": "Lewis, E", "battingName": "E Lewis", "fieldingName": "Lewis", "slug": "evin-lewis", "gender": "M", "playingRole": "opening batter", "battingStyles": ["lhb"], "bowlingStyles": [], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": [], "image": {"id": 232753, "objectId": 966389, "slug": "evin-lewis-profile-photo", "url": "/db/PICTURES/CMS/232700/232753.jpg", "width": 160, "height": 200, "caption": "Evin Lewis profile photo", "longCaption": "Evin Lewis profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1991, "month": 12, "date": 27}, "dateOfDeath": null}, {"id": 63409, "objectId": 474308, "name": "HK Matthews", "longName": "Hayley Matthews", "mobileName": "Matthews", "indexName": "Matthews, HK", "battingName": "HK Matthews", "fieldingName": "Matthews", "slug": "hayley-matthews", "gender": "F", "playingRole": "opening batter", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 306637, "objectId": 1227365, "slug": "hayley-matthews-portrait", "url": "/db/PICTURES/CMS/306600/306637.jpg", "width": 160, "height": 200, "caption": "Hayley Matthews portrait", "longCaption": "Hayley Matthews portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1998, "month": 3, "date": 19}, "dateOfDeath": null}, {"id": 56832, "objectId": 348056, "name": "KR Mayers", "longName": "Kyle Mayers", "mobileName": "Mayers", "indexName": "Mayers, KR", "battingName": "KR Mayers", "fieldingName": "Mayers", "slug": "kyle-mayers", "gender": "M", "playingRole": "batting allrounder", "battingStyles": ["lhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 316081, "objectId": 1249948, "slug": "kyle-mayers-portrait", "url": "/db/PICTURES/CMS/316000/316081.png", "width": 160, "height": 200, "caption": "Kyle Mayers portrait", "longCaption": "Kyle Mayers portrait, February 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["batting allrounder"], "dateOfBirth": {"year": 1992, "month": 9, "date": 8}, "dateOfDeath": null}, {"id": 49037, "objectId": 230556, "name": "AM McCarthy", "longName": "Andre McCarthy", "mobileName": "McCarthy", "indexName": "McCarthy, AM", "battingName": "AM McCarthy", "fieldingName": "McCarthy", "slug": "andre-mccarthy", "gender": "M", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 232779, "objectId": 966423, "slug": "andre-mccarthy-profile-photo", "url": "/db/PICTURES/CMS/232700/232779.jpg", "width": 160, "height": 200, "caption": "Andre McCarthy profile photo", "longCaption": "Andre McCarthy profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1987, "month": 6, "date": 8}, "dateOfDeath": null}, {"id": 83915, "objectId": 906783, "name": "OC McCoy", "longName": "Obed McCoy", "mobileName": "McCoy", "indexName": "McCoy,OC", "battingName": "OC McCoy", "fieldingName": "McCoy", "slug": "obed-mccoy", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["lfm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["left-arm fast-medium"], "image": {"id": 322031, "objectId": 1264374, "slug": "obed-mccoy-player-page-headshot-cutout-2021", "url": "/db/PICTURES/CMS/322000/322031.png", "width": 600, "height": 436, "caption": "Obed McCoy player page headshot cutout, 2021", "longCaption": "Obed McCoy player page headshot cutout, 2021", "credit": null, "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1997, "month": 1, "date": 4}, "dateOfDeath": null}, {"id": 63347, "objectId": 474201, "name": "NY McLean", "longName": "Natasha McLean", "mobileName": "McLean", "indexName": "McLean, NY", "battingName": "NY McLean", "fieldingName": "McLean", "slug": "natasha-mclean", "gender": "F", "playingRole": "top-order batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 153885, "objectId": 602444, "slug": "natasha-mclean-portrait", "url": "/db/PICTURES/CMS/153800/153885.1.jpg", "width": 160, "height": 200, "caption": "Natasha McLean portrait", "longCaption": "Natasha McLean portrait, January 27", "credit": "ICC", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1994, "month": 12, "date": 22}, "dateOfDeath": null}, {"id": 47172, "objectId": 55187, "name": "A Mohammed", "longName": "Anisa Mohammed", "mobileName": "Anisa Mohammed", "indexName": "Mohammed, Anisa", "battingName": "A Mohammed", "fieldingName": "Anisa Mohammed", "slug": "anisa-mohammed", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 306131, "objectId": 1226336, "slug": "anisa-mohammed-portrait", "url": "/db/PICTURES/CMS/306100/306131.png", "width": 160, "height": 200, "caption": "Anisa Mohammed portrait", "longCaption": "Anisa Mohammed portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1988, "month": 9, "date": 7}, "dateOfDeath": null}, {"id": 49030, "objectId": 230549, "name": "JN Mohammed", "longName": "Jason Mohammed", "mobileName": "Mohammed", "indexName": "Mohammed, JN", "battingName": "JN Mohammed", "fieldingName": "Mohammed", "slug": "jason-mohammed", "gender": "M", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 232755, "objectId": 966391, "slug": "jason-mohammed-profile-photo", "url": "/db/PICTURES/CMS/232700/232755.jpg", "width": 160, "height": 200, "caption": "Jason Mohammed profile photo", "longCaption": "Jason Mohammed profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1986, "month": 9, "date": 23}, "dateOfDeath": null}, {"id": 81151, "objectId": 851501, "name": "S Moseley", "longName": "Shayne Moseley", "mobileName": "Moseley", "indexName": "Moseley, S", "battingName": "S Moseley", "fieldingName": "Moseley", "slug": "shayne-moseley", "gender": "M", "playingRole": "batter", "battingStyles": ["lhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 305921, "objectId": 1225956, "slug": "shayne-moseley-player-portrait", "url": "/db/PICTURES/CMS/305900/305921.1.jpg", "width": 160, "height": 200, "caption": "Shayne Moseley player portrait", "longCaption": "Shayne Moseley player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["batter"], "dateOfBirth": {"year": 1994, "month": 4, "date": 11}, "dateOfDeath": null}, {"id": 57205, "objectId": 355355, "name": "CN Nation", "longName": "Chedean Nation", "mobileName": "Nation", "indexName": "Nation, CN", "battingName": "CN Nation", "fieldingName": "Nation", "slug": "chedean-nation", "gender": "F", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": {"id": 306616, "objectId": 1227338, "slug": "chedean-nation-portrait", "url": "/db/PICTURES/CMS/306600/306616.png", "width": 160, "height": 200, "caption": "Chedean Nation portrait", "longCaption": "Chedean Nation portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1986, "month": 10, "date": 31}, "dateOfDeath": null}, {"id": 60268, "objectId": 416190, "name": "KY Ottley", "longName": "Kjorn Ottley", "mobileName": "Ottley", "indexName": "Ottley, KY", "battingName": "KY Ottley", "fieldingName": "Ottley", "slug": "kjorn-ottley", "gender": "M", "playingRole": "opening batter", "battingStyles": ["lhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 232757, "objectId": 966393, "slug": "kjorn-ottley-profile-photo", "url": "/db/PICTURES/CMS/232700/232757.jpg", "width": 160, "height": 200, "caption": "Kjorn Ottley profile photo", "longCaption": "Kjorn Ottley profile photo", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1989, "month": 12, "date": 9}, "dateOfDeath": null}, {"id": 72509, "objectId": 677081, "name": "KMA Paul", "longName": "Keemo Paul", "mobileName": "Paul", "indexName": "Paul, KMA", "battingName": "KMA Paul", "fieldingName": "Paul", "slug": "keemo-paul", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 203931, "objectId": 822039, "slug": "kemo-paul", "url": "/db/PICTURES/CMS/203900/203931.1.jpg", "width": 160, "height": 192, "caption": "Kemo Paul", "longCaption": "Kemo Paul", "credit": "Craig Cozier", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1998, "month": 2, "date": 21}, "dateOfDeath": null}, {"id": 84139, "objectId": 914467, "name": "A Phillip", "longName": "Anderson Phillip", "mobileName": "Phillip", "indexName": "Phillip,A", "battingName": "A Phillip", "fieldingName": "Phillip", "slug": "anderson-phillip", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 246271, "objectId": 1030745, "slug": "anderson-phillip-player-portrait", "url": "/db/PICTURES/CMS/246200/246271.1.jpg", "width": 160, "height": 196, "caption": "Anderson Phillip player portrait", "longCaption": "Anderson Phillip player portrait", "credit": "CPL/Sportsfile", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1996, "month": 8, "date": 22}, "dateOfDeath": null}, {"id": 49040, "objectId": 230559, "name": "KA Pollard", "longName": "Kieron Pollard", "mobileName": "Pollard", "indexName": "Pollard, KA", "battingName": "KA Pollard", "fieldingName": "Pollard", "slug": "kieron-pollard", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 203305, "objectId": 818707, "slug": "kieron-pollard", "url": "/db/PICTURES/CMS/203300/203305.1.jpg", "width": 160, "height": 192, "caption": "Kieron Pollard", "longCaption": "Kieron Pollard", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1987, "month": 5, "date": 12}, "dateOfDeath": null}, {"id": 70405, "objectId": 604302, "name": "N Pooran", "longName": "Nicholas Pooran", "mobileName": "Pooran", "indexName": "Pooran, N", "battingName": "N Pooran", "fieldingName": "Pooran", "slug": "nicholas-pooran", "gender": "M", "playingRole": "wicketkeeper batter", "battingStyles": ["lhb"], "bowlingStyles": [], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": [], "image": {"id": 302286, "objectId": 1220424, "slug": "nicholas-pooran-portrait", "url": "/db/PICTURES/CMS/302200/302286.jpg", "width": 160, "height": 200, "caption": "Nicholas Pooran portrait", "longCaption": "Nicholas Pooran portrait, Bristol, May 25, 2019", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "WK", "playingRoles": ["wicketkeeper batter"], "dateOfBirth": {"year": 1995, "month": 10, "date": 2}, "dateOfDeath": null}, {"id": 49694, "objectId": 252932, "name": "KOA Powell", "longName": "Kieran Powell", "mobileName": "Powell", "indexName": "Powell, KOA", "battingName": "KOA Powell", "fieldingName": "Powell", "slug": "kieran-powell", "gender": "M", "playingRole": "opening batter", "battingStyles": ["lhb"], "bowlingStyles": ["rm", "ob"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm medium", "right-arm offbreak"], "image": {"id": 143834, "objectId": 558244, "slug": "kieran-powell", "url": "/db/PICTURES/CMS/143800/143834.1.jpg", "width": 160, "height": 192, "caption": "Kieran Powell", "longCaption": "Kieran Powell", "credit": "West Indies Cricket", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["opening batter"], "dateOfBirth": {"year": 1990, "month": 3, "date": 6}, "dateOfDeath": null}, {"id": 80425, "objectId": 820351, "name": "R Powell", "longName": "Rovman Powell", "mobileName": "Powell", "indexName": "Powell,R", "battingName": "R Powell", "fieldingName": "Powell", "slug": "rovman-powell", "gender": "M", "playingRole": "middle-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 246267, "objectId": 1030741, "slug": "rovman-powell-player-portrait", "url": "/db/PICTURES/CMS/246200/246267.1.jpg", "width": 160, "height": 212, "caption": "Rovman Powell player portrait", "longCaption": "Rovman Powell player portrait", "credit": "CPL/Sportsfile", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["middle-order batter"], "dateOfBirth": {"year": 1993, "month": 7, "date": 23}, "dateOfDeath": null}, {"id": 77333, "objectId": 769517, "name": "K Ramharack", "longName": "Karishma Ramharack", "mobileName": "Ramharack", "indexName": "Ramharack, K", "battingName": "K Ramharack", "fieldingName": "Ramharack", "slug": "karishma-ramharack", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": null, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1995, "month": 1, "date": 20}, "dateOfDeath": null}, {"id": 62139, "objectId": 450101, "name": "RA Reifer", "longName": "Raymon Reifer", "mobileName": "Reifer", "indexName": "Reifer, RA", "battingName": "RA Reifer", "fieldingName": "Reifer", "slug": "raymon-reifer", "gender": "M", "playingRole": "allrounder", "battingStyles": ["lhb"], "bowlingStyles": ["lmf"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["left-arm medium-fast"], "image": {"id": 305914, "objectId": 1225946, "slug": "raymon-reifer-player-portrait", "url": "/db/PICTURES/CMS/305900/305914.1.jpg", "width": 160, "height": 200, "caption": "Raymon Reifer player portrait", "longCaption": "Raymon Reifer player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1991, "month": 5, "date": 11}, "dateOfDeath": null}, {"id": 49034, "objectId": 230553, "name": "KAJ Roach", "longName": "Kemar Roach", "mobileName": "Roach", "indexName": "Roach, KAJ", "battingName": "KAJ Roach", "fieldingName": "Roach", "slug": "kemar-roach", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 305913, "objectId": 1225945, "slug": "kemar-roach-player-portrait", "url": "/db/PICTURES/CMS/305900/305913.1.jpg", "width": 160, "height": 200, "caption": "Kemar Roach player portrait", "longCaption": "Kemar Roach player portrait, West Indies media day", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1988, "month": 6, "date": 30}, "dateOfDeath": null}, {"id": 51012, "objectId": 276298, "name": "AD Russell", "longName": "Andre Russell", "mobileName": "Russell", "indexName": "Russell, AD", "battingName": "AD Russell", "fieldingName": "Russell", "slug": "andre-russell", "gender": "M", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 308972, "objectId": 1232420, "slug": "andre-russell-portrait", "url": "/db/PICTURES/CMS/308900/308972.png", "width": 160, "height": 200, "caption": "Andre Russell portrait", "longCaption": "Andre Russell portrait, September 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1988, "month": 4, "date": 29}, "dateOfDeath": null}, {"id": 106326, "objectId": 1199304, "name": "JNT Seales", "longName": "Jayden Seales", "mobileName": "Seales", "indexName": "Seales,JNT", "battingName": "JNT Seales", "fieldingName": "Seales", "slug": "jayden-seales", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 312278, "objectId": 1239443, "slug": "jayden-seales-player-portrait", "url": "/db/PICTURES/CMS/312200/312278.1.jpg", "width": 160, "height": 198, "caption": "Jayden Seales player portrait", "longCaption": "Jayden Seales player portrait", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 2001, "month": 9, "date": 10}, "dateOfDeath": null}, {"id": 57206, "objectId": 355356, "name": "SC Selman", "longName": "Shakera Selman", "mobileName": "Selman", "indexName": "Selman, SC", "battingName": "SC Selman", "fieldingName": "Selman", "slug": "shakera-selman", "gender": "F", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium"], "image": {"id": 306699, "objectId": 1227466, "slug": "shakera-selman-portrait", "url": "/db/PICTURES/CMS/306600/306699.png", "width": 160, "height": 201, "caption": "Shakera Selman portrait", "longCaption": "Shakera Selman portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1989, "month": 9, "date": 1}, "dateOfDeath": null}, {"id": 72505, "objectId": 677077, "name": "R Shepherd", "longName": "Romario Shepherd", "mobileName": "Shepherd", "indexName": "Shepherd, R", "battingName": "R Shepherd", "fieldingName": "Shepherd", "slug": "romario-shepherd", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 322037, "objectId": 1264382, "slug": "romario-shepherd-player-page-headshot-cutout-2021", "url": "/db/PICTURES/CMS/322000/322037.png", "width": 600, "height": 436, "caption": "Romario Shepherd player page headshot cutout, 2021", "longCaption": "Romario Shepherd player page headshot cutout, 2021", "credit": null, "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1994, "month": 11, "date": 26}, "dateOfDeath": null}, {"id": 45256, "objectId": 53116, "name": "LMP Simmons", "longName": "Lendl Simmons", "mobileName": "Simmons", "indexName": "Simmons, LMP", "battingName": "LMP Simmons", "fieldingName": "Simmons", "slug": "lendl-simmons", "gender": "M", "playingRole": "top-order batter", "battingStyles": ["rhb"], "bowlingStyles": ["rmf"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm medium-fast"], "image": {"id": 203285, "objectId": 818687, "slug": "lendl-simmons", "url": "/db/PICTURES/CMS/203200/203285.1.jpg", "width": 160, "height": 192, "caption": "Lendl Simmons", "longCaption": "Lendl Simmons", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["top-order batter"], "dateOfBirth": {"year": 1985, "month": 1, "date": 25}, "dateOfDeath": null}, {"id": 106855, "objectId": 1206110, "name": "K Sinclair", "longName": "Kevin Sinclair", "mobileName": "Sinclair", "indexName": "Sinclair, K", "battingName": "K Sinclair", "fieldingName": "Sinclair", "slug": "kevin-sinclair", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 322017, "objectId": 1264359, "slug": "kevin-sinclair-player-page-headshot-cutout-2021", "url": "/db/PICTURES/CMS/322000/322017.png", "width": 600, "height": 436, "caption": "Kevin Sinclair player page headshot cutout, 2021", "longCaption": "Kevin Sinclair player page headshot cutout, 2021", "credit": null, "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1999, "month": 11, "date": 23}, "dateOfDeath": null}, {"id": 57209, "objectId": 355359, "name": "SR Taylor", "longName": "Stafanie Taylor", "mobileName": "Taylor", "indexName": "Taylor, SR", "battingName": "SR Taylor", "fieldingName": "Taylor", "slug": "stafanie-taylor", "gender": "F", "playingRole": "allrounder", "battingStyles": ["rhb"], "bowlingStyles": ["ob"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm offbreak"], "image": {"id": 306628, "objectId": 1227350, "slug": "stafanie-taylor-portrait", "url": "/db/PICTURES/CMS/306600/306628.png", "width": 160, "height": 201, "caption": "Stafanie Taylor portrait", "longCaption": "Stafanie Taylor portrait, July 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["allrounder"], "dateOfBirth": {"year": 1991, "month": 6, "date": 11}, "dateOfDeath": null}, {"id": 84225, "objectId": 914567, "name": "O Thomas", "longName": "Oshane Thomas", "mobileName": "Thomas", "indexName": "Thomas, O", "battingName": "O Thomas", "fieldingName": "Thomas", "slug": "oshane-thomas", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["rf"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["right-arm fast"], "image": {"id": 307607, "objectId": 1229475, "slug": "oshane-thomas-portrait", "url": "/db/PICTURES/CMS/307600/307607.jpg", "width": 160, "height": 201, "caption": "Oshane Thomas portrait", "longCaption": "Oshane Thomas portrait, August 2020", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1997, "month": 2, "date": 18}, "dateOfDeath": null}, {"id": 61941, "objectId": 443263, "name": "HR Walsh", "longName": "Hayden Walsh", "mobileName": "Walsh", "indexName": "Walsh, HR", "battingName": "HR Walsh", "fieldingName": "Walsh", "slug": "hayden-walsh", "gender": "M", "playingRole": "bowler", "battingStyles": ["lhb"], "bowlingStyles": ["lbg"], "longBattingStyles": ["left-hand bat"], "longBowlingStyles": ["legbreak googly"], "image": {"id": 286881, "objectId": 1178564, "slug": "hayden-walsh-portrait", "url": "/db/PICTURES/CMS/286800/286881.1.jpg", "width": 160, "height": 200, "caption": "Hayden Walsh portrait", "longCaption": "Hayden Walsh portrait, March 2019", "credit": "Peter Della Penna", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1992, "month": 4, "date": 23}, "dateOfDeath": null}, {"id": 61431, "objectId": 432214, "name": "JA Warrican", "longName": "Jomel Warrican", "mobileName": "Warrican", "indexName": "Warrican, JA", "battingName": "JA Warrican", "fieldingName": "Warrican", "slug": "jomel-warrican", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["sla"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["slow left-arm orthodox"], "image": {"id": 316080, "objectId": 1249947, "slug": "jomel-warrican-portrait", "url": "/db/PICTURES/CMS/316000/316080.png", "width": 160, "height": 199, "caption": "Jomel Warrican portrait", "longCaption": "Jomel Warrican portrait, February 2021", "credit": "Getty Images", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1992, "month": 5, "date": 20}, "dateOfDeath": null}, {"id": 62138, "objectId": 450075, "name": "KOK Williams", "longName": "Kesrick Williams", "mobileName": "Williams", "indexName": "Williams, KOK", "battingName": "KOK Williams", "fieldingName": "Williams", "slug": "kesrick-williams", "gender": "M", "playingRole": "bowler", "battingStyles": ["rhb"], "bowlingStyles": ["rfm"], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": ["right-arm fast-medium"], "image": {"id": 246273, "objectId": 1030747, "slug": "kesrick-williams-player-portrait", "url": "/db/PICTURES/CMS/246200/246273.1.jpg", "width": 160, "height": 215, "caption": "Kesrick Williams player portrait", "longCaption": "Kesrick Williams player portrait", "credit": "CPL/Sportsfile", "photographer": null, "peerUrls": null}, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": ["bowler"], "dateOfBirth": {"year": 1990, "month": 1, "date": 8}, "dateOfDeath": null}, {"id": 77323, "objectId": 769427, "name": "RS Williams", "longName": "Rashada Williams", "mobileName": "Williams", "indexName": "Williams, RS", "battingName": "RS Williams", "fieldingName": "Williams", "slug": "rashada-williams", "gender": "F", "playingRole": "", "battingStyles": ["rhb"], "bowlingStyles": [], "longBattingStyles": ["right-hand bat"], "longBowlingStyles": [], "image": null, "countryTeamId": 4, "playingRoleType": "P", "playingRoles": [], "dateOfBirth": {"year": 1997, "month": 2, "date": 23}, "dateOfDeath": null}], "objects": {}}
+{
+  "total": 73,
+  "results": [
+    {
+      "id": 72385,
+      "objectId": 670013,
+      "name": "FA Allen",
+      "longName": "Fabian Allen",
+      "mobileName": "Allen",
+      "indexName": "Allen, FA",
+      "battingName": "FA Allen",
+      "fieldingName": "Allen",
+      "slug": "fabian-allen",
+      "gender": "M",
+      "playingRole": "bowling allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "sla"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "slow left-arm orthodox"
+      ],
+      "image": {
+        "id": 300765,
+        "objectId": 1216841,
+        "slug": "fabian-allen-player-portrait",
+        "url": "/db/PICTURES/CMS/300700/300765.1.jpg",
+        "width": 160,
+        "height": 207,
+        "caption": "Fabian Allen player portrait",
+        "longCaption": "Fabian Allen player portrait",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowling allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1995,
+        "month": 5,
+        "date": 7
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 72075,
+      "objectId": 661441,
+      "name": "AA Alleyne",
+      "longName": "Aaliyah Alleyne",
+      "mobileName": "Alleyne",
+      "indexName": "Alleyne, AA",
+      "battingName": "AA Alleyne",
+      "fieldingName": "Alleyne",
+      "slug": "aaliyah-alleyne",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 306128,
+        "objectId": 1226333,
+        "slug": "aaliyah-alleyne-portrait",
+        "url": "/db/PICTURES/CMS/306100/306128.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Aaliyah Alleyne portrait",
+        "longCaption": "Aaliyah Alleyne portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1994,
+        "month": 11,
+        "date": 11
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 56830,
+      "objectId": 348054,
+      "name": "SW Ambris",
+      "longName": "Sunil Ambris",
+      "mobileName": "Ambris",
+      "indexName": "Ambris, SW",
+      "battingName": "SW Ambris",
+      "fieldingName": "Ambris",
+      "slug": "sunil-ambris",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 136581,
+        "objectId": 530817,
+        "slug": "sunil-ambris",
+        "url": "/db/PICTURES/CMS/136500/136581.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Sunil Ambris",
+        "longCaption": "Sunil Ambris",
+        "credit": "WindiesCricket.com",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 3,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61417,
+      "objectId": 431909,
+      "name": "J Blackwood",
+      "longName": "Jermaine Blackwood",
+      "mobileName": "Blackwood",
+      "indexName": "Blackwood, J",
+      "battingName": "J Blackwood",
+      "fieldingName": "Blackwood",
+      "slug": "jermaine-blackwood",
+      "gender": "M",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 305910,
+        "objectId": 1225942,
+        "slug": "jermaine-blackwood-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305910.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Jermaine Blackwood player portrait",
+        "longCaption": "Jermaine Blackwood player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 11,
+        "date": 20
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 53396,
+      "objectId": 314650,
+      "name": "NE Bonner",
+      "longName": "Nkrumah Bonner",
+      "mobileName": "Bonner",
+      "indexName": "Bonner, NE",
+      "battingName": "NE Bonner",
+      "fieldingName": "Bonner",
+      "slug": "nkrumah-bonner",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "lb"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "legbreak"
+      ],
+      "image": {
+        "id": 316082,
+        "objectId": 1249949,
+        "slug": "nkrumah-bonner-portrait",
+        "url": "/db/PICTURES/CMS/316000/316082.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Nkrumah Bonner portrait",
+        "longCaption": "Nkrumah Bonner portrait, February 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 1,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 56801,
+      "objectId": 348024,
+      "name": "KC Brathwaite",
+      "longName": "Kraigg Brathwaite",
+      "mobileName": "Brathwaite",
+      "indexName": "Brathwaite, KC",
+      "battingName": "KC Brathwaite",
+      "fieldingName": "Brathwaite",
+      "slug": "kraigg-brathwaite",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 305917,
+        "objectId": 1225949,
+        "slug": "kraigg-brathwaite-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305917.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Kraigg Brathwaite player portrait",
+        "longCaption": "Kraigg Brathwaite player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 12,
+        "date": 1
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 45257,
+      "objectId": 51439,
+      "name": "DJ Bravo",
+      "longName": "Dwayne Bravo",
+      "mobileName": "Bravo",
+      "indexName": "Bravo, DJ",
+      "battingName": "DJ Bravo",
+      "fieldingName": "Bravo",
+      "slug": "dwayne-bravo",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 309099,
+        "objectId": 1232616,
+        "slug": "dwayne-bravo-portrait",
+        "url": "/db/PICTURES/CMS/309000/309099.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Dwayne Bravo portrait",
+        "longCaption": "Dwayne Bravo portrait, September 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1983,
+        "month": 10,
+        "date": 7
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 51054,
+      "objectId": 277472,
+      "name": "DM Bravo",
+      "longName": "Darren Bravo",
+      "mobileName": "Bravo",
+      "indexName": "Bravo, DM",
+      "battingName": "DM Bravo",
+      "fieldingName": "Bravo",
+      "slug": "darren-bravo",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 203309,
+        "objectId": 818711,
+        "slug": "darren-bravo",
+        "url": "/db/PICTURES/CMS/203300/203309.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Darren Bravo",
+        "longCaption": "Darren Bravo",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 2,
+        "date": 6
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49036,
+      "objectId": 230555,
+      "name": "SSJ Brooks",
+      "longName": "Shamarh Brooks",
+      "mobileName": "Brooks",
+      "indexName": "Brooks, SSJ",
+      "battingName": "SSJ Brooks",
+      "fieldingName": "Brooks",
+      "slug": "shamarh-brooks",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "lb"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "legbreak"
+      ],
+      "image": {
+        "id": 305918,
+        "objectId": 1225950,
+        "slug": "shamarh-brooks-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305918.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Shamarh Brooks player portrait",
+        "longCaption": "Shamarh Brooks player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1988,
+        "month": 10,
+        "date": 1
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 56803,
+      "objectId": 348026,
+      "name": "JD Campbell",
+      "longName": "John Campbell",
+      "mobileName": "Campbell",
+      "indexName": "Campbell, JD",
+      "battingName": "JD Campbell",
+      "fieldingName": "Campbell",
+      "slug": "john-campbell",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 316117,
+        "objectId": 1250025,
+        "slug": "john-campbell-portrait",
+        "url": "/db/PICTURES/CMS/316100/316117.png",
+        "width": 160,
+        "height": 202,
+        "caption": "John Campbell portrait",
+        "longCaption": "John Campbell portrait, Februay 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 9,
+        "date": 21
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 60763,
+      "objectId": 424631,
+      "name": "SA Campbelle",
+      "longName": "Shemaine Campbelle",
+      "mobileName": "Campbelle",
+      "indexName": "Campbelle, SA",
+      "battingName": "SA Campbelle",
+      "fieldingName": "Campbelle",
+      "slug": "shemaine-campbelle",
+      "gender": "F",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 306631,
+        "objectId": 1227353,
+        "slug": "shemaine-campbelle-portrait",
+        "url": "/db/PICTURES/CMS/306600/306631.png",
+        "width": 160,
+        "height": 198,
+        "caption": "Shemaine Campbelle portrait",
+        "longCaption": "Shemaine Campbelle portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 10,
+        "date": 14
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 59349,
+      "objectId": 391832,
+      "name": "RL Chase",
+      "longName": "Roston Chase",
+      "mobileName": "Chase",
+      "indexName": "Chase, RL",
+      "battingName": "RL Chase",
+      "fieldingName": "Chase",
+      "slug": "roston-chase",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 305909,
+        "objectId": 1225941,
+        "slug": "roston-chase-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305909.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Roston Chase player portrait",
+        "longCaption": "Roston Chase player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 3,
+        "date": 22
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63339,
+      "objectId": 474191,
+      "name": "SS Connell",
+      "longName": "Shamilia Connell",
+      "mobileName": "Connell",
+      "indexName": "Connell, SS",
+      "battingName": "SS Connell",
+      "fieldingName": "Connell",
+      "slug": "shamilia-connell",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 306700,
+        "objectId": 1227467,
+        "slug": "shamilia-connell-portrait",
+        "url": "/db/PICTURES/CMS/306700/306700.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Shamilia Connell portrait",
+        "longCaption": "Shamilia Connell portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 7,
+        "date": 14
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 60761,
+      "objectId": 424629,
+      "name": "B Cooper",
+      "longName": "Britney Cooper",
+      "mobileName": "Cooper",
+      "indexName": "Cooper, B",
+      "battingName": "B Cooper",
+      "fieldingName": "Cooper",
+      "slug": "britney-cooper",
+      "gender": "F",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 306133,
+        "objectId": 1226338,
+        "slug": "britney-cooper-portrait",
+        "url": "/db/PICTURES/CMS/306100/306133.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Britney Cooper portrait",
+        "longCaption": "Britney Cooper portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 8,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 64418,
+      "objectId": 494581,
+      "name": "RRS Cornwall",
+      "longName": "Rahkeem Cornwall",
+      "mobileName": "Cornwall",
+      "indexName": "Cornwall, RRS",
+      "battingName": "RRS Cornwall",
+      "fieldingName": "Cornwall",
+      "slug": "rahkeem-cornwall",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 316114,
+        "objectId": 1250022,
+        "slug": "rahkeem-cornwall-portrait",
+        "url": "/db/PICTURES/CMS/316100/316114.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Rahkeem Cornwall portrait",
+        "longCaption": "Rahkeem Cornwall portrait, February 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 2,
+        "date": 1
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 64443,
+      "objectId": 495551,
+      "name": "SS Cottrell",
+      "longName": "Sheldon Cottrell",
+      "mobileName": "Cottrell",
+      "indexName": "Cottrell, SS",
+      "battingName": "SS Cottrell",
+      "fieldingName": "Cottrell",
+      "slug": "sheldon-cottrell",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "lfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "left-arm fast-medium"
+      ],
+      "image": {
+        "id": 232765,
+        "objectId": 966407,
+        "slug": "sheldon-cottrell-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232765.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Sheldon Cottrell profile photo",
+        "longCaption": "Sheldon Cottrell profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 8,
+        "date": 19
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 104283,
+      "objectId": 1168667,
+      "name": "J Da Silva",
+      "longName": "Joshua Da Silva",
+      "mobileName": "Da Silva",
+      "indexName": "Da Silva,J",
+      "battingName": "J Da Silva",
+      "fieldingName": "Da Silva",
+      "slug": "joshua-da-silva",
+      "gender": "M",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 316113,
+        "objectId": 1250021,
+        "slug": "joshua-da-silva-portrait",
+        "url": "/db/PICTURES/CMS/316100/316113.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Joshua Da Silva portrait",
+        "longCaption": "Joshua Da Silva portrait, February 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1998,
+        "month": 6,
+        "date": 19
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57201,
+      "objectId": 355349,
+      "name": "DJS Dottin",
+      "longName": "Deandra Dottin",
+      "mobileName": "Dottin",
+      "indexName": "Dottin, DJS",
+      "battingName": "DJS Dottin",
+      "fieldingName": "Dottin",
+      "slug": "deandra-dottin",
+      "gender": "F",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 306622,
+        "objectId": 1227344,
+        "slug": "deandra-dottin-portrait",
+        "url": "/db/PICTURES/CMS/306600/306622.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Deandra Dottin portrait",
+        "longCaption": "Deandra Dottin portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 6,
+        "date": 21
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61416,
+      "objectId": 431905,
+      "name": "SO Dowrich",
+      "longName": "Shane Dowrich",
+      "mobileName": "Dowrich",
+      "indexName": "Dowrich, SO",
+      "battingName": "SO Dowrich",
+      "fieldingName": "Dowrich",
+      "slug": "shane-dowrich",
+      "gender": "M",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 214751,
+        "objectId": 883991,
+        "slug": "shane-dowrich",
+        "url": "/db/PICTURES/CMS/214700/214751.1.jpg",
+        "width": 160,
+        "height": 191,
+        "caption": "Shane Dowrich",
+        "longCaption": "Shane Dowrich",
+        "credit": "WICB Media Photo/Randy Brooks",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 10,
+        "date": 30
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 45774,
+      "objectId": 51782,
+      "name": "FH Edwards",
+      "longName": "Fidel Edwards",
+      "mobileName": "Edwards",
+      "indexName": "Edwards, FH",
+      "battingName": "FH Edwards",
+      "fieldingName": "Edwards",
+      "slug": "fidel-edwards",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 296195,
+        "objectId": 1204817,
+        "slug": "fidel-edwards-player-profile",
+        "url": "/db/PICTURES/CMS/296100/296195.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Fidel Edwards player profile",
+        "longCaption": "Fidel Edwards player profile",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1982,
+        "month": 2,
+        "date": 6
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 47602,
+      "objectId": 51862,
+      "name": "ADS Fletcher",
+      "longName": "Andre Fletcher",
+      "mobileName": "Fletcher",
+      "indexName": "Fletcher, ADS",
+      "battingName": "ADS Fletcher",
+      "fieldingName": "Fletcher",
+      "slug": "andre-fletcher",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf",
+        "lb"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast",
+        "legbreak"
+      ],
+      "image": {
+        "id": 238341,
+        "objectId": 990015,
+        "slug": "andre-fletcher-player-portrait",
+        "url": "/db/PICTURES/CMS/238300/238341.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Andre Fletcher, player portrait",
+        "longCaption": "Andre Fletcher, player portrait",
+        "credit": "IDI/Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1987,
+        "month": 11,
+        "date": 28
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57202,
+      "objectId": 355351,
+      "name": "ASS Fletcher",
+      "longName": "Afy Fletcher",
+      "mobileName": "Fletcher",
+      "indexName": "Fletcher, ASS",
+      "battingName": "ASS Fletcher",
+      "fieldingName": "Fletcher",
+      "slug": "afy-fletcher",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "lb"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "legbreak"
+      ],
+      "image": {
+        "id": 306129,
+        "objectId": 1226334,
+        "slug": "afy-fletcher-portrait",
+        "url": "/db/PICTURES/CMS/306100/306129.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Afy Fletcher portrait",
+        "longCaption": "Afy Fletcher portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1987,
+        "month": 3,
+        "date": 17
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 107403,
+      "objectId": 1214080,
+      "name": "CS Fraser",
+      "longName": "Cherry-Ann Fraser",
+      "mobileName": "Fraser",
+      "indexName": "Fraser, CS",
+      "battingName": "CS Fraser",
+      "fieldingName": "Fraser",
+      "slug": "cherry-ann-fraser",
+      "gender": "F",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 306618,
+        "objectId": 1227340,
+        "slug": "cherry-ann-fraser-portrait",
+        "url": "/db/PICTURES/CMS/306600/306618.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Cherry Ann Fraser portrait",
+        "longCaption": "Cherry Ann Fraser portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1999,
+        "month": 7,
+        "date": 21
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61982,
+      "objectId": 446101,
+      "name": "ST Gabriel",
+      "longName": "Shannon Gabriel",
+      "mobileName": "Gabriel",
+      "indexName": "Gabriel, ST",
+      "battingName": "ST Gabriel",
+      "fieldingName": "Gabriel",
+      "slug": "shannon-gabriel",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 145199,
+        "objectId": 563011,
+        "slug": "shannon-gabriel",
+        "url": "/db/PICTURES/CMS/145100/145199.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Shannon Gabriel",
+        "longCaption": "Shannon Gabriel",
+        "credit": "Brooks LaTouche Photography/WICB",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1988,
+        "month": 4,
+        "date": 28
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 106346,
+      "objectId": 1199630,
+      "name": "S Gajnabi",
+      "longName": "Shabika Gajnabi",
+      "mobileName": "Gajnabi",
+      "indexName": "Gajnabi, S",
+      "battingName": "S Gajnabi",
+      "fieldingName": "Gajnabi",
+      "slug": "shabika-gajnabi",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 311991,
+        "objectId": 1238897,
+        "slug": "shabika-gajnabi-player-portrait",
+        "url": "/db/PICTURES/CMS/311900/311991.16.jpg",
+        "width": 160,
+        "height": 304,
+        "caption": "Shabika Gajnabi, player portrait",
+        "longCaption": "Shabika Gajnabi, player portrait",
+        "credit": "Getty Images",
+        "photographer": "Gareth Copley",
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 2000,
+        "month": 7,
+        "date": 14
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 7568,
+      "objectId": 51880,
+      "name": "CH Gayle",
+      "longName": "Chris Gayle",
+      "mobileName": "Gayle",
+      "indexName": "Gayle, CH",
+      "battingName": "CH Gayle",
+      "fieldingName": "Gayle",
+      "slug": "chris-gayle",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 309058,
+        "objectId": 1232572,
+        "slug": "chris-gayle-portrait",
+        "url": "/db/PICTURES/CMS/309000/309058.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Chris Gayle portrait",
+        "longCaption": "Chris Gayle portrait, September 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1979,
+        "month": 9,
+        "date": 21
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 83969,
+      "objectId": 909779,
+      "name": "SS Grimmond",
+      "longName": "Sheneta Grimmond",
+      "mobileName": "Grimmond",
+      "indexName": "Grimmond, SS",
+      "battingName": "SS Grimmond",
+      "fieldingName": "Grimmond",
+      "slug": "sheneta-grimmond",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 306630,
+        "objectId": 1227352,
+        "slug": "sheneta-grimmond-portrait",
+        "url": "/db/PICTURES/CMS/306600/306630.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Sheneta Grimmond portrait",
+        "longCaption": "Sheneta Grimmond portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1998,
+        "month": 8,
+        "date": 9
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 55111,
+      "objectId": 332937,
+      "name": "JN Hamilton",
+      "longName": "Jahmar Hamilton",
+      "mobileName": "Hamilton",
+      "indexName": "Hamilton, JN",
+      "battingName": "JN Hamilton",
+      "fieldingName": "Hamilton",
+      "slug": "jahmar-hamilton",
+      "gender": "M",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 86232,
+        "objectId": 335083,
+        "slug": "jahmar-hamilton-player-portrait",
+        "url": "/db/PICTURES/CMS/86200/86232.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Jahmar Hamilton, player portrait",
+        "longCaption": "Jahmar Hamilton, player portrait",
+        "credit": "Stanford 20/20",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1990,
+        "month": 9,
+        "date": 22
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 83889,
+      "objectId": 906755,
+      "name": "KJ Harding",
+      "longName": "Keon Harding",
+      "mobileName": "Harding",
+      "indexName": "Harding, KJ",
+      "battingName": "KJ Harding",
+      "fieldingName": "Harding",
+      "slug": "keon-harding",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 305920,
+        "objectId": 1225955,
+        "slug": "keon-harding-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305920.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Keon Harding player portrait",
+        "longCaption": "Keon Harding player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1996,
+        "month": 11,
+        "date": 1
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63338,
+      "objectId": 474190,
+      "name": "CA Henry",
+      "longName": "Chinelle Henry",
+      "mobileName": "Henry",
+      "indexName": "Henry, CA",
+      "battingName": "CA Henry",
+      "fieldingName": "Henry",
+      "slug": "chinelle-henry",
+      "gender": "F",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 306619,
+        "objectId": 1227341,
+        "slug": "chinelle-henry-portrait",
+        "url": "/db/PICTURES/CMS/306600/306619.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Chinelle Henry portrait",
+        "longCaption": "Chinelle Henry portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1995,
+        "month": 8,
+        "date": 17
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 72393,
+      "objectId": 670025,
+      "name": "SO Hetmyer",
+      "longName": "Shimron Hetmyer",
+      "mobileName": "Hetmyer",
+      "indexName": "Hetmyer, SO",
+      "battingName": "SO Hetmyer",
+      "fieldingName": "Hetmyer",
+      "slug": "shimron-hetmyer",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 309101,
+        "objectId": 1232618,
+        "slug": "shimron-hetmyer-portrait",
+        "url": "/db/PICTURES/CMS/309100/309101.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Shimron Hetmyer portrait",
+        "longCaption": "Shimron Hetmyer portrait, September 2020",
+        "credit": "BCCI",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1996,
+        "month": 12,
+        "date": 26
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 59339,
+      "objectId": 391485,
+      "name": "JO Holder",
+      "longName": "Jason Holder",
+      "mobileName": "Holder",
+      "indexName": "Holder, JO",
+      "battingName": "JO Holder",
+      "fieldingName": "Holder",
+      "slug": "jason-holder",
+      "gender": "M",
+      "playingRole": "bowling allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 214757,
+        "objectId": 883997,
+        "slug": "jason-holder",
+        "url": "/db/PICTURES/CMS/214700/214757.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Jason Holder",
+        "longCaption": "Jason Holder",
+        "credit": "WICB Media Photo/Randy Brooks",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowling allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 11,
+        "date": 5
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 84179,
+      "objectId": 914519,
+      "name": "CK Holder",
+      "longName": "Chemar Holder",
+      "mobileName": "Holder",
+      "indexName": "Holder,CK",
+      "battingName": "CK Holder",
+      "fieldingName": "Holder",
+      "slug": "chemar-holder",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 305908,
+        "objectId": 1225940,
+        "slug": "chemar-holder-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305908.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Chemar Holder player portrait",
+        "longCaption": "Chemar Holder player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1998,
+        "month": 3,
+        "date": 3
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 68405,
+      "objectId": 581379,
+      "name": "SD Hope",
+      "longName": "Shai Hope",
+      "mobileName": "Hope",
+      "indexName": "Hope, SD",
+      "battingName": "SD Hope",
+      "fieldingName": "Hope",
+      "slug": "shai-hope",
+      "gender": "M",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 305915,
+        "objectId": 1225947,
+        "slug": "shai-hope-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305915.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Shai Hope player portrait",
+        "longCaption": "Shai Hope player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 11,
+        "date": 10
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 66259,
+      "objectId": 530812,
+      "name": "AJ Hosein",
+      "longName": "Akeal Hosein",
+      "mobileName": "Hosein",
+      "indexName": "Hosein, AJ",
+      "battingName": "AJ Hosein",
+      "fieldingName": "Hosein",
+      "slug": "akeal-hosein",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "sla"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "slow left-arm orthodox"
+      ],
+      "image": {
+        "id": 321939,
+        "objectId": 1264222,
+        "slug": "akeal-hosein-player-page-headshot-cutout-2021",
+        "url": "/db/PICTURES/CMS/321900/321939.png",
+        "width": 600,
+        "height": 436,
+        "caption": "Akeal Hosein player page headshot cutout, 2021",
+        "longCaption": "Akeal Hosein player page headshot cutout, 2021",
+        "credit": null,
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 4,
+        "date": 25
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 106785,
+      "objectId": 1205544,
+      "name": "C Isaac",
+      "longName": "Caneisha Isaac",
+      "mobileName": "Isaac",
+      "indexName": "Isaac, C",
+      "battingName": "C Isaac",
+      "fieldingName": "Isaac",
+      "slug": "caneisha-isaac",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [],
+      "bowlingStyles": [],
+      "longBattingStyles": [],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 296534,
+        "objectId": 1205867,
+        "slug": "caneisha-isaac-player-portrait",
+        "url": "/db/PICTURES/CMS/296500/296534.1.jpg",
+        "width": 160,
+        "height": 199,
+        "caption": "Caneisha Isaac player portrait",
+        "longCaption": "Caneisha Isaac player portrait",
+        "credit": "WICB",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": null,
+      "dateOfDeath": null
+    },
+    {
+      "id": 72397,
+      "objectId": 670031,
+      "name": "AS Joseph",
+      "longName": "Alzarri Joseph",
+      "mobileName": "Joseph",
+      "indexName": "Joseph, AS",
+      "battingName": "AS Joseph",
+      "fieldingName": "Joseph",
+      "slug": "alzarri-joseph",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 321943,
+        "objectId": 1264229,
+        "slug": "alzarri-joseph-player-page-headshot-cutout-2021",
+        "url": "/db/PICTURES/CMS/321900/321943.png",
+        "width": 600,
+        "height": 436,
+        "caption": "Alzarri Joseph player page headshot cutout, 2021",
+        "longCaption": "Alzarri Joseph player page headshot cutout, 2021",
+        "credit": null,
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1996,
+        "month": 11,
+        "date": 20
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 72399,
+      "objectId": 670035,
+      "name": "BA King",
+      "longName": "Brandon King",
+      "mobileName": "King",
+      "indexName": "King, BA",
+      "battingName": "BA King",
+      "fieldingName": "King",
+      "slug": "brandon-king",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 232775,
+        "objectId": 966419,
+        "slug": "brandon-king-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232775.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Brandon King profile photo",
+        "longCaption": "Brandon King profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1994,
+        "month": 12,
+        "date": 16
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57204,
+      "objectId": 355354,
+      "name": "LAGL Kirby",
+      "longName": "Lee-Ann Kirby",
+      "mobileName": "Kirby",
+      "indexName": "Kirby, LAGL",
+      "battingName": "LAGL Kirby",
+      "fieldingName": "Kirby",
+      "slug": "lee-ann-kirby",
+      "gender": "F",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rsm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm slow-medium"
+      ],
+      "image": {
+        "id": 306646,
+        "objectId": 1227375,
+        "slug": "lee-ann-kirby-portrait",
+        "url": "/db/PICTURES/CMS/306600/306646.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Lee Ann Kirby portrait",
+        "longCaption": "Lee Ann Kirby portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1987,
+        "month": 4,
+        "date": 7
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63305,
+      "objectId": 472977,
+      "name": "Kyshona A Knight",
+      "longName": "Kyshona Knight",
+      "mobileName": "",
+      "indexName": "Knight, Kyshona A",
+      "battingName": "Kyshona A Knight",
+      "fieldingName": "",
+      "slug": "kyshona-knight",
+      "gender": "F",
+      "playingRole": "",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 306645,
+        "objectId": 1227374,
+        "slug": "kyshona-knight-portrait",
+        "url": "/db/PICTURES/CMS/306600/306645.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Kyshona Knight portrait",
+        "longCaption": "Kyshona Knight portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 2,
+        "date": 19
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63304,
+      "objectId": 472975,
+      "name": "Kycia A Knight",
+      "longName": "Kycia Knight",
+      "mobileName": "",
+      "indexName": "Kycia A Knight",
+      "battingName": "Kycia A Knight",
+      "fieldingName": "",
+      "slug": "kycia-knight",
+      "gender": "F",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 306644,
+        "objectId": 1227373,
+        "slug": "kycia-knight-portrait",
+        "url": "/db/PICTURES/CMS/306600/306644.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Kycia Knight portrait",
+        "longCaption": "Kycia Knight portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 2,
+        "date": 19
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61413,
+      "objectId": 431901,
+      "name": "E Lewis",
+      "longName": "Evin Lewis",
+      "mobileName": "Lewis",
+      "indexName": "Lewis, E",
+      "battingName": "E Lewis",
+      "fieldingName": "Lewis",
+      "slug": "evin-lewis",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 232753,
+        "objectId": 966389,
+        "slug": "evin-lewis-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232753.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Evin Lewis profile photo",
+        "longCaption": "Evin Lewis profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 12,
+        "date": 27
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63409,
+      "objectId": 474308,
+      "name": "HK Matthews",
+      "longName": "Hayley Matthews",
+      "mobileName": "Matthews",
+      "indexName": "Matthews, HK",
+      "battingName": "HK Matthews",
+      "fieldingName": "Matthews",
+      "slug": "hayley-matthews",
+      "gender": "F",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 306637,
+        "objectId": 1227365,
+        "slug": "hayley-matthews-portrait",
+        "url": "/db/PICTURES/CMS/306600/306637.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Hayley Matthews portrait",
+        "longCaption": "Hayley Matthews portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1998,
+        "month": 3,
+        "date": 19
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 56832,
+      "objectId": 348056,
+      "name": "KR Mayers",
+      "longName": "Kyle Mayers",
+      "mobileName": "Mayers",
+      "indexName": "Mayers, KR",
+      "battingName": "KR Mayers",
+      "fieldingName": "Mayers",
+      "slug": "kyle-mayers",
+      "gender": "M",
+      "playingRole": "batting allrounder",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 316081,
+        "objectId": 1249948,
+        "slug": "kyle-mayers-portrait",
+        "url": "/db/PICTURES/CMS/316000/316081.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Kyle Mayers portrait",
+        "longCaption": "Kyle Mayers portrait, February 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "batting allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 9,
+        "date": 8
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49037,
+      "objectId": 230556,
+      "name": "AM McCarthy",
+      "longName": "Andre McCarthy",
+      "mobileName": "McCarthy",
+      "indexName": "McCarthy, AM",
+      "battingName": "AM McCarthy",
+      "fieldingName": "McCarthy",
+      "slug": "andre-mccarthy",
+      "gender": "M",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 232779,
+        "objectId": 966423,
+        "slug": "andre-mccarthy-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232779.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Andre McCarthy profile photo",
+        "longCaption": "Andre McCarthy profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1987,
+        "month": 6,
+        "date": 8
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 83915,
+      "objectId": 906783,
+      "name": "OC McCoy",
+      "longName": "Obed McCoy",
+      "mobileName": "McCoy",
+      "indexName": "McCoy,OC",
+      "battingName": "OC McCoy",
+      "fieldingName": "McCoy",
+      "slug": "obed-mccoy",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "lfm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "left-arm fast-medium"
+      ],
+      "image": {
+        "id": 322031,
+        "objectId": 1264374,
+        "slug": "obed-mccoy-player-page-headshot-cutout-2021",
+        "url": "/db/PICTURES/CMS/322000/322031.png",
+        "width": 600,
+        "height": 436,
+        "caption": "Obed McCoy player page headshot cutout, 2021",
+        "longCaption": "Obed McCoy player page headshot cutout, 2021",
+        "credit": null,
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1997,
+        "month": 1,
+        "date": 4
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 63347,
+      "objectId": 474201,
+      "name": "NY McLean",
+      "longName": "Natasha McLean",
+      "mobileName": "McLean",
+      "indexName": "McLean, NY",
+      "battingName": "NY McLean",
+      "fieldingName": "McLean",
+      "slug": "natasha-mclean",
+      "gender": "F",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 153885,
+        "objectId": 602444,
+        "slug": "natasha-mclean-portrait",
+        "url": "/db/PICTURES/CMS/153800/153885.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Natasha McLean portrait",
+        "longCaption": "Natasha McLean portrait, January 27",
+        "credit": "ICC",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1994,
+        "month": 12,
+        "date": 22
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 47172,
+      "objectId": 55187,
+      "name": "A Mohammed",
+      "longName": "Anisa Mohammed",
+      "mobileName": "Anisa Mohammed",
+      "indexName": "Mohammed, Anisa",
+      "battingName": "A Mohammed",
+      "fieldingName": "Anisa Mohammed",
+      "slug": "anisa-mohammed",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 306131,
+        "objectId": 1226336,
+        "slug": "anisa-mohammed-portrait",
+        "url": "/db/PICTURES/CMS/306100/306131.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Anisa Mohammed portrait",
+        "longCaption": "Anisa Mohammed portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1988,
+        "month": 9,
+        "date": 7
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49030,
+      "objectId": 230549,
+      "name": "JN Mohammed",
+      "longName": "Jason Mohammed",
+      "mobileName": "Mohammed",
+      "indexName": "Mohammed, JN",
+      "battingName": "JN Mohammed",
+      "fieldingName": "Mohammed",
+      "slug": "jason-mohammed",
+      "gender": "M",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 232755,
+        "objectId": 966391,
+        "slug": "jason-mohammed-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232755.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Jason Mohammed profile photo",
+        "longCaption": "Jason Mohammed profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1986,
+        "month": 9,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 81151,
+      "objectId": 851501,
+      "name": "S Moseley",
+      "longName": "Shayne Moseley",
+      "mobileName": "Moseley",
+      "indexName": "Moseley, S",
+      "battingName": "S Moseley",
+      "fieldingName": "Moseley",
+      "slug": "shayne-moseley",
+      "gender": "M",
+      "playingRole": "batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 305921,
+        "objectId": 1225956,
+        "slug": "shayne-moseley-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305921.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Shayne Moseley player portrait",
+        "longCaption": "Shayne Moseley player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "batter"
+      ],
+      "dateOfBirth": {
+        "year": 1994,
+        "month": 4,
+        "date": 11
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57205,
+      "objectId": 355355,
+      "name": "CN Nation",
+      "longName": "Chedean Nation",
+      "mobileName": "Nation",
+      "indexName": "Nation, CN",
+      "battingName": "CN Nation",
+      "fieldingName": "Nation",
+      "slug": "chedean-nation",
+      "gender": "F",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 306616,
+        "objectId": 1227338,
+        "slug": "chedean-nation-portrait",
+        "url": "/db/PICTURES/CMS/306600/306616.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Chedean Nation portrait",
+        "longCaption": "Chedean Nation portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1986,
+        "month": 10,
+        "date": 31
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 60268,
+      "objectId": 416190,
+      "name": "KY Ottley",
+      "longName": "Kjorn Ottley",
+      "mobileName": "Ottley",
+      "indexName": "Ottley, KY",
+      "battingName": "KY Ottley",
+      "fieldingName": "Ottley",
+      "slug": "kjorn-ottley",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 232757,
+        "objectId": 966393,
+        "slug": "kjorn-ottley-profile-photo",
+        "url": "/db/PICTURES/CMS/232700/232757.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Kjorn Ottley profile photo",
+        "longCaption": "Kjorn Ottley profile photo",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 12,
+        "date": 9
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 72509,
+      "objectId": 677081,
+      "name": "KMA Paul",
+      "longName": "Keemo Paul",
+      "mobileName": "Paul",
+      "indexName": "Paul, KMA",
+      "battingName": "KMA Paul",
+      "fieldingName": "Paul",
+      "slug": "keemo-paul",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 203931,
+        "objectId": 822039,
+        "slug": "kemo-paul",
+        "url": "/db/PICTURES/CMS/203900/203931.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Kemo Paul",
+        "longCaption": "Kemo Paul",
+        "credit": "Craig Cozier",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1998,
+        "month": 2,
+        "date": 21
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 84139,
+      "objectId": 914467,
+      "name": "A Phillip",
+      "longName": "Anderson Phillip",
+      "mobileName": "Phillip",
+      "indexName": "Phillip,A",
+      "battingName": "A Phillip",
+      "fieldingName": "Phillip",
+      "slug": "anderson-phillip",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 246271,
+        "objectId": 1030745,
+        "slug": "anderson-phillip-player-portrait",
+        "url": "/db/PICTURES/CMS/246200/246271.1.jpg",
+        "width": 160,
+        "height": 196,
+        "caption": "Anderson Phillip player portrait",
+        "longCaption": "Anderson Phillip player portrait",
+        "credit": "CPL/Sportsfile",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1996,
+        "month": 8,
+        "date": 22
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49040,
+      "objectId": 230559,
+      "name": "KA Pollard",
+      "longName": "Kieron Pollard",
+      "mobileName": "Pollard",
+      "indexName": "Pollard, KA",
+      "battingName": "KA Pollard",
+      "fieldingName": "Pollard",
+      "slug": "kieron-pollard",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 203305,
+        "objectId": 818707,
+        "slug": "kieron-pollard",
+        "url": "/db/PICTURES/CMS/203300/203305.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Kieron Pollard",
+        "longCaption": "Kieron Pollard",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1987,
+        "month": 5,
+        "date": 12
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 70405,
+      "objectId": 604302,
+      "name": "N Pooran",
+      "longName": "Nicholas Pooran",
+      "mobileName": "Pooran",
+      "indexName": "Pooran, N",
+      "battingName": "N Pooran",
+      "fieldingName": "Pooran",
+      "slug": "nicholas-pooran",
+      "gender": "M",
+      "playingRole": "wicketkeeper batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": {
+        "id": 302286,
+        "objectId": 1220424,
+        "slug": "nicholas-pooran-portrait",
+        "url": "/db/PICTURES/CMS/302200/302286.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Nicholas Pooran portrait",
+        "longCaption": "Nicholas Pooran portrait, Bristol, May 25, 2019",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "WK",
+      "playingRoles": [
+        "wicketkeeper batter"
+      ],
+      "dateOfBirth": {
+        "year": 1995,
+        "month": 10,
+        "date": 2
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49694,
+      "objectId": 252932,
+      "name": "KOA Powell",
+      "longName": "Kieran Powell",
+      "mobileName": "Powell",
+      "indexName": "Powell, KOA",
+      "battingName": "KOA Powell",
+      "fieldingName": "Powell",
+      "slug": "kieran-powell",
+      "gender": "M",
+      "playingRole": "opening batter",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rm",
+        "ob"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium",
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 143834,
+        "objectId": 558244,
+        "slug": "kieran-powell",
+        "url": "/db/PICTURES/CMS/143800/143834.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Kieran Powell",
+        "longCaption": "Kieran Powell",
+        "credit": "West Indies Cricket",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "opening batter"
+      ],
+      "dateOfBirth": {
+        "year": 1990,
+        "month": 3,
+        "date": 6
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 80425,
+      "objectId": 820351,
+      "name": "R Powell",
+      "longName": "Rovman Powell",
+      "mobileName": "Powell",
+      "indexName": "Powell,R",
+      "battingName": "R Powell",
+      "fieldingName": "Powell",
+      "slug": "rovman-powell",
+      "gender": "M",
+      "playingRole": "middle-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 246267,
+        "objectId": 1030741,
+        "slug": "rovman-powell-player-portrait",
+        "url": "/db/PICTURES/CMS/246200/246267.1.jpg",
+        "width": 160,
+        "height": 212,
+        "caption": "Rovman Powell player portrait",
+        "longCaption": "Rovman Powell player portrait",
+        "credit": "CPL/Sportsfile",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "middle-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1993,
+        "month": 7,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 77333,
+      "objectId": 769517,
+      "name": "K Ramharack",
+      "longName": "Karishma Ramharack",
+      "mobileName": "Ramharack",
+      "indexName": "Ramharack, K",
+      "battingName": "K Ramharack",
+      "fieldingName": "Ramharack",
+      "slug": "karishma-ramharack",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": null,
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1995,
+        "month": 1,
+        "date": 20
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 62139,
+      "objectId": 450101,
+      "name": "RA Reifer",
+      "longName": "Raymon Reifer",
+      "mobileName": "Reifer",
+      "indexName": "Reifer, RA",
+      "battingName": "RA Reifer",
+      "fieldingName": "Reifer",
+      "slug": "raymon-reifer",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "lmf"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "left-arm medium-fast"
+      ],
+      "image": {
+        "id": 305914,
+        "objectId": 1225946,
+        "slug": "raymon-reifer-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305914.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Raymon Reifer player portrait",
+        "longCaption": "Raymon Reifer player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 5,
+        "date": 11
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 49034,
+      "objectId": 230553,
+      "name": "KAJ Roach",
+      "longName": "Kemar Roach",
+      "mobileName": "Roach",
+      "indexName": "Roach, KAJ",
+      "battingName": "KAJ Roach",
+      "fieldingName": "Roach",
+      "slug": "kemar-roach",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 305913,
+        "objectId": 1225945,
+        "slug": "kemar-roach-player-portrait",
+        "url": "/db/PICTURES/CMS/305900/305913.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Kemar Roach player portrait",
+        "longCaption": "Kemar Roach player portrait, West Indies media day",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1988,
+        "month": 6,
+        "date": 30
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 51012,
+      "objectId": 276298,
+      "name": "AD Russell",
+      "longName": "Andre Russell",
+      "mobileName": "Russell",
+      "indexName": "Russell, AD",
+      "battingName": "AD Russell",
+      "fieldingName": "Russell",
+      "slug": "andre-russell",
+      "gender": "M",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 308972,
+        "objectId": 1232420,
+        "slug": "andre-russell-portrait",
+        "url": "/db/PICTURES/CMS/308900/308972.png",
+        "width": 160,
+        "height": 200,
+        "caption": "Andre Russell portrait",
+        "longCaption": "Andre Russell portrait, September 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1988,
+        "month": 4,
+        "date": 29
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 106326,
+      "objectId": 1199304,
+      "name": "JNT Seales",
+      "longName": "Jayden Seales",
+      "mobileName": "Seales",
+      "indexName": "Seales,JNT",
+      "battingName": "JNT Seales",
+      "fieldingName": "Seales",
+      "slug": "jayden-seales",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 312278,
+        "objectId": 1239443,
+        "slug": "jayden-seales-player-portrait",
+        "url": "/db/PICTURES/CMS/312200/312278.1.jpg",
+        "width": 160,
+        "height": 198,
+        "caption": "Jayden Seales player portrait",
+        "longCaption": "Jayden Seales player portrait",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 2001,
+        "month": 9,
+        "date": 10
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57206,
+      "objectId": 355356,
+      "name": "SC Selman",
+      "longName": "Shakera Selman",
+      "mobileName": "Selman",
+      "indexName": "Selman, SC",
+      "battingName": "SC Selman",
+      "fieldingName": "Selman",
+      "slug": "shakera-selman",
+      "gender": "F",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium"
+      ],
+      "image": {
+        "id": 306699,
+        "objectId": 1227466,
+        "slug": "shakera-selman-portrait",
+        "url": "/db/PICTURES/CMS/306600/306699.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Shakera Selman portrait",
+        "longCaption": "Shakera Selman portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1989,
+        "month": 9,
+        "date": 1
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 72505,
+      "objectId": 677077,
+      "name": "R Shepherd",
+      "longName": "Romario Shepherd",
+      "mobileName": "Shepherd",
+      "indexName": "Shepherd, R",
+      "battingName": "R Shepherd",
+      "fieldingName": "Shepherd",
+      "slug": "romario-shepherd",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 322037,
+        "objectId": 1264382,
+        "slug": "romario-shepherd-player-page-headshot-cutout-2021",
+        "url": "/db/PICTURES/CMS/322000/322037.png",
+        "width": 600,
+        "height": 436,
+        "caption": "Romario Shepherd player page headshot cutout, 2021",
+        "longCaption": "Romario Shepherd player page headshot cutout, 2021",
+        "credit": null,
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1994,
+        "month": 11,
+        "date": 26
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 45256,
+      "objectId": 53116,
+      "name": "LMP Simmons",
+      "longName": "Lendl Simmons",
+      "mobileName": "Simmons",
+      "indexName": "Simmons, LMP",
+      "battingName": "LMP Simmons",
+      "fieldingName": "Simmons",
+      "slug": "lendl-simmons",
+      "gender": "M",
+      "playingRole": "top-order batter",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rmf"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm medium-fast"
+      ],
+      "image": {
+        "id": 203285,
+        "objectId": 818687,
+        "slug": "lendl-simmons",
+        "url": "/db/PICTURES/CMS/203200/203285.1.jpg",
+        "width": 160,
+        "height": 192,
+        "caption": "Lendl Simmons",
+        "longCaption": "Lendl Simmons",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "top-order batter"
+      ],
+      "dateOfBirth": {
+        "year": 1985,
+        "month": 1,
+        "date": 25
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 106855,
+      "objectId": 1206110,
+      "name": "K Sinclair",
+      "longName": "Kevin Sinclair",
+      "mobileName": "Sinclair",
+      "indexName": "Sinclair, K",
+      "battingName": "K Sinclair",
+      "fieldingName": "Sinclair",
+      "slug": "kevin-sinclair",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 322017,
+        "objectId": 1264359,
+        "slug": "kevin-sinclair-player-page-headshot-cutout-2021",
+        "url": "/db/PICTURES/CMS/322000/322017.png",
+        "width": 600,
+        "height": 436,
+        "caption": "Kevin Sinclair player page headshot cutout, 2021",
+        "longCaption": "Kevin Sinclair player page headshot cutout, 2021",
+        "credit": null,
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1999,
+        "month": 11,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 57209,
+      "objectId": 355359,
+      "name": "SR Taylor",
+      "longName": "Stafanie Taylor",
+      "mobileName": "Taylor",
+      "indexName": "Taylor, SR",
+      "battingName": "SR Taylor",
+      "fieldingName": "Taylor",
+      "slug": "stafanie-taylor",
+      "gender": "F",
+      "playingRole": "allrounder",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "ob"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm offbreak"
+      ],
+      "image": {
+        "id": 306628,
+        "objectId": 1227350,
+        "slug": "stafanie-taylor-portrait",
+        "url": "/db/PICTURES/CMS/306600/306628.png",
+        "width": 160,
+        "height": 201,
+        "caption": "Stafanie Taylor portrait",
+        "longCaption": "Stafanie Taylor portrait, July 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "allrounder"
+      ],
+      "dateOfBirth": {
+        "year": 1991,
+        "month": 6,
+        "date": 11
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 84225,
+      "objectId": 914567,
+      "name": "O Thomas",
+      "longName": "Oshane Thomas",
+      "mobileName": "Thomas",
+      "indexName": "Thomas, O",
+      "battingName": "O Thomas",
+      "fieldingName": "Thomas",
+      "slug": "oshane-thomas",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "rf"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast"
+      ],
+      "image": {
+        "id": 307607,
+        "objectId": 1229475,
+        "slug": "oshane-thomas-portrait",
+        "url": "/db/PICTURES/CMS/307600/307607.jpg",
+        "width": 160,
+        "height": 201,
+        "caption": "Oshane Thomas portrait",
+        "longCaption": "Oshane Thomas portrait, August 2020",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1997,
+        "month": 2,
+        "date": 18
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61941,
+      "objectId": 443263,
+      "name": "HR Walsh",
+      "longName": "Hayden Walsh",
+      "mobileName": "Walsh",
+      "indexName": "Walsh, HR",
+      "battingName": "HR Walsh",
+      "fieldingName": "Walsh",
+      "slug": "hayden-walsh",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "lhb"
+      ],
+      "bowlingStyles": [
+        "lbg"
+      ],
+      "longBattingStyles": [
+        "left-hand bat"
+      ],
+      "longBowlingStyles": [
+        "legbreak googly"
+      ],
+      "image": {
+        "id": 286881,
+        "objectId": 1178564,
+        "slug": "hayden-walsh-portrait",
+        "url": "/db/PICTURES/CMS/286800/286881.1.jpg",
+        "width": 160,
+        "height": 200,
+        "caption": "Hayden Walsh portrait",
+        "longCaption": "Hayden Walsh portrait, March 2019",
+        "credit": "Peter Della Penna",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 4,
+        "date": 23
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 61431,
+      "objectId": 432214,
+      "name": "JA Warrican",
+      "longName": "Jomel Warrican",
+      "mobileName": "Warrican",
+      "indexName": "Warrican, JA",
+      "battingName": "JA Warrican",
+      "fieldingName": "Warrican",
+      "slug": "jomel-warrican",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "sla"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "slow left-arm orthodox"
+      ],
+      "image": {
+        "id": 316080,
+        "objectId": 1249947,
+        "slug": "jomel-warrican-portrait",
+        "url": "/db/PICTURES/CMS/316000/316080.png",
+        "width": 160,
+        "height": 199,
+        "caption": "Jomel Warrican portrait",
+        "longCaption": "Jomel Warrican portrait, February 2021",
+        "credit": "Getty Images",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1992,
+        "month": 5,
+        "date": 20
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 62138,
+      "objectId": 450075,
+      "name": "KOK Williams",
+      "longName": "Kesrick Williams",
+      "mobileName": "Williams",
+      "indexName": "Williams, KOK",
+      "battingName": "KOK Williams",
+      "fieldingName": "Williams",
+      "slug": "kesrick-williams",
+      "gender": "M",
+      "playingRole": "bowler",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [
+        "rfm"
+      ],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [
+        "right-arm fast-medium"
+      ],
+      "image": {
+        "id": 246273,
+        "objectId": 1030747,
+        "slug": "kesrick-williams-player-portrait",
+        "url": "/db/PICTURES/CMS/246200/246273.1.jpg",
+        "width": 160,
+        "height": 215,
+        "caption": "Kesrick Williams player portrait",
+        "longCaption": "Kesrick Williams player portrait",
+        "credit": "CPL/Sportsfile",
+        "photographer": null,
+        "peerUrls": null
+      },
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [
+        "bowler"
+      ],
+      "dateOfBirth": {
+        "year": 1990,
+        "month": 1,
+        "date": 8
+      },
+      "dateOfDeath": null
+    },
+    {
+      "id": 77323,
+      "objectId": 769427,
+      "name": "RS Williams",
+      "longName": "Rashada Williams",
+      "mobileName": "Williams",
+      "indexName": "Williams, RS",
+      "battingName": "RS Williams",
+      "fieldingName": "Williams",
+      "slug": "rashada-williams",
+      "gender": "F",
+      "playingRole": "",
+      "battingStyles": [
+        "rhb"
+      ],
+      "bowlingStyles": [],
+      "longBattingStyles": [
+        "right-hand bat"
+      ],
+      "longBowlingStyles": [],
+      "image": null,
+      "countryTeamId": 4,
+      "playingRoleType": "P",
+      "playingRoles": [],
+      "dateOfBirth": {
+        "year": 1997,
+        "month": 2,
+        "date": 23
+      },
+      "dateOfDeath": null
+    }
+  ],
+  "objects": {}
+}

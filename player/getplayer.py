@@ -28,7 +28,8 @@ class Players:
         :param player: player name
         :return: content
         """
-        player_url = urlparse.urljoin(f'{self.player_page}/player/', player_link)
+        player_link = self.__player_links__[self.__player_links__['longName'] == player]['link']
+        player_url = urlparse.urljoin(f'{self.player_page}/player/', player_link.values[0])
 
         try:
             respond = requests.get(player_url)
