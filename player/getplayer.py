@@ -28,35 +28,26 @@ class Players:
         :param player: player name
         :return: content
         """
-        player_link = self.__player_links__[self.__player_links__['longName'] == player]['link']
-        player_url = urlparse.urljoin(f'{self.player_page}/player/', player_link.values[0])
+        player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        player_url = urlparse.urljoin('https://hs-consumer-api.espncricinfo.com/v1/pages/player/home?playerId=',
+                                      player.values[0])
 
         try:
-            respond = requests.get(player_url)
+            respond = requests.get(player_url).json()
+            return respond
         except error.URLError as e:
             print('Error Occurred: ', e.reason)
-
-        if respond.status_code == 200:
-            return respond.content
-        elif respond.status_code == 404:
-            print('Not found.')
-        elif respond.status_code == 500:
-            print('Internal error.')
 
     def get_player_stat(self, player):
-        stat_page = urlparse.urljoin(self.player_page, f'/player/{player}/bowling-batting-stats')
+        player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        stat_page = urlparse.urljoin('https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats?playerId=',
+                                     player.values[0])
 
         try:
-            respond = requests.get(stat_page)
+            respond = requests.get(stat_page).json()
+            return respond
         except error.URLError as e:
             print('Error Occurred: ', e.reason)
-
-        if respond.status_code == 200:
-            return respond.content
-        elif respond.status_code == 404:
-            print('Not found.')
-        elif respond.status_code == 500:
-            print('Internal error.')
 
 
 class Test:
