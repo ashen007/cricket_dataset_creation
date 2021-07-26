@@ -1,5 +1,5 @@
 import requests
-import urllib3
+import urllib.error as error
 
 
 class Players:
@@ -13,7 +13,11 @@ class Players:
         :return: content
         """
         player_url = self.player_page + player
-        respond = requests.get(player_url)
+
+        try:
+            respond = requests.get(player_url)
+        except error.URLError as e:
+            print('Error Occurred: ', e.reason)
 
         if respond.status_code == 200:
             return respond.content
@@ -24,7 +28,11 @@ class Players:
 
     def get_player_stat(self, player):
         stat_page = self.player_page + player + '/bowling-batting-stats'
-        respond = requests.get(stat_page)
+
+        try:
+            respond = requests.get(stat_page)
+        except error.URLError as e:
+            print('Error Occurred: ', e.reason)
 
         if respond.status_code == 200:
             return respond.content
