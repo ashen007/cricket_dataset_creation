@@ -11,12 +11,21 @@ from bs4 import SoupStrainer  #
 
 class Players:
     def __init__(self, country, level='INTERNATIONAL'):
+        """
+        initialize country
+        :param country: player country
+        :param level: format level
+        """
         self.player_page = 'https://www.espncricinfo.com'
         self.country = country
         self.level = level
 
     @property
     def __player_links__(self):
+        """
+        player links
+        :return:
+        """
         if not os.path.exists(f'../data/{self.country}/player_link_{self.level}.pkl'):
             get_players(self.country, self.level)
 
@@ -24,7 +33,7 @@ class Players:
 
     def get_player_dtl(self, player):
         """
-        read url and return content
+        player details
         :param player: player name
         :return: content
         """
@@ -39,6 +48,11 @@ class Players:
             print('Error Occurred: ', e.reason)
 
     def get_player_stat(self, player):
+        """
+        player stata so far
+        :param player:
+        :return:
+        """
         player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
         stat_page = urlparse.urljoin('https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats?playerId=',
                                      player.values[0])
@@ -141,6 +155,11 @@ def get_records_on(format='test', name=None):
 
 
 def get_countries(country):
+    """
+    get countries
+    :param country: country
+    :return: country id
+    """
     player_page = 'https://www.espncricinfo.com/player/'
     respond = requests.get(player_page).content
     nav = SoupStrainer('nav')
@@ -152,6 +171,12 @@ def get_countries(country):
 
 
 def get_players(country, level='INTERNATIONAL'):
+    """
+    request player ids
+    :param country: country
+    :param level: format level
+    :return: datafram
+    """
     RECORDS = 9999
     country_page = get_countries(country)[-1]
 
