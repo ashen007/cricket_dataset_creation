@@ -53,7 +53,7 @@ class Players:
 
     def get_player_test_stat(self, player, playing_type):
         """
-        player stata so far
+        player stat so far
         :param player: player id
         :return:
         """
@@ -70,7 +70,7 @@ class Players:
 
     def get_player_odi_stat(self, player, playing_type):
         """
-        player stata so far
+        player stat so far
         :param player: player id
         :return:
         """
@@ -86,7 +86,7 @@ class Players:
 
     def get_player_t20_stat(self, player, playing_type):
         """
-        player stata so far
+        player stat so far
         :param player: player id
         :return:
         """
