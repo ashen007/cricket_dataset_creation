@@ -5,7 +5,7 @@ import pandas as pd
 import urllib.error as error
 import urllib.parse as urlparse
 
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup as BS
 from bs4 import SoupStrainer  #
 
 
@@ -64,12 +64,13 @@ class Players:
             print('Error Occurred: ', e.reason)
 
 
-class Test:
+class Test(Players):
     """
     get test records for specific player
     """
 
-    def __init__(self, name):
+    def __init__(self, name, country, level):
+        super().__init__(country, level)
         self.name = name
 
     def get(self):
@@ -79,12 +80,13 @@ class Test:
         print('save player records.')
 
 
-class OneDay:
+class OneDay(Players):
     """
     get on day international records for specific player
     """
 
-    def __init__(self, name):
+    def __init__(self, name, country, level):
+        super().__init__(country, level)
         self.name = name
 
     def get(self):
@@ -94,12 +96,13 @@ class OneDay:
         print('save player records.')
 
 
-class T20:
+class T20(Players):
     """
     get twenty-twenty international records for specific player
     """
 
-    def __init__(self, name):
+    def __init__(self, name, country, level):
+        super().__init__(country, level)
         self.name = name
 
     def get(self):
@@ -109,12 +112,13 @@ class T20:
         print('save player records.')
 
 
-class ASeries:
+class ASeries(Players):
     """
     get A-series records for specific player
     """
 
-    def __init__(self, name):
+    def __init__(self, name, country, level):
+        super().__init__(country, level)
         self.name = name
 
     def get(self):
@@ -124,12 +128,13 @@ class ASeries:
         print('save player records.')
 
 
-class FirstClass:
+class FirstClass(Players):
     """
     get first class records for specific player
     """
 
-    def __init__(self, name):
+    def __init__(self, name, country, level):
+        super().__init__(country, level)
         self.name = name
 
     def get(self):
@@ -163,7 +168,7 @@ def get_countries(country):
     player_page = 'https://www.espncricinfo.com/player/'
     respond = requests.get(player_page).content
     nav = SoupStrainer('nav')
-    sub_nav = bs(respond, 'lxml', parse_only=nav).find('nav', attrs={'class': 'sub-navbar'})
+    sub_nav = BS(respond, 'lxml', parse_only=nav).find('nav', attrs={'class': 'sub-navbar'})
     country_pages = sub_nav.find_all('a', attrs={'class': 'nav-link'})
     countries = {tag.text: tag.get('href') for tag in country_pages[1:-2]}
 
