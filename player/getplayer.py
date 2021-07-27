@@ -10,7 +10,11 @@ from bs4 import SoupStrainer  #
 
 
 class Players:
-    def __init__(self, country, level='INTERNATIONAL'):
+    """
+    abstract factory
+    """
+
+    def __init__(self, country, level, active):
         """
         initialize country
         :param country: player country
@@ -19,6 +23,7 @@ class Players:
         self.player_page = 'https://www.espncricinfo.com'
         self.country = country
         self.level = level
+        self.active = active
 
     @property
     def __player_links__(self):
@@ -27,7 +32,7 @@ class Players:
         :return:
         """
         if not os.path.exists(f'../data/{self.country}/player_link_{self.level}.pkl'):
-            get_players(self.country, self.level)
+            get_players(self.country, self.level, self.active)
 
         return pd.read_pickle(f'../data/{self.country}/player_link_{self.level}.pkl')
 
@@ -37,9 +42,8 @@ class Players:
         :param player: player name
         :return: content
         """
-        player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
-        player_url = urlparse.urljoin('https://hs-consumer-api.espncricinfo.com/v1/pages/player/home?playerId=',
-                                      player.values[0])
+        # player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        player_url = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/home?playerId={player}'
 
         try:
             respond = requests.get(player_url).json()
@@ -50,113 +54,17 @@ class Players:
     def get_player_stat(self, player):
         """
         player stata so far
-        :param player:
+        :param player: player id
         :return:
         """
-        player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
-        stat_page = urlparse.urljoin('https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats?playerId=',
-                                     player.values[0])
+        # player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        stat_page = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats?playerId={player}'
 
         try:
             respond = requests.get(stat_page).json()
             return respond
         except error.URLError as e:
             print('Error Occurred: ', e.reason)
-
-
-class Test(Players):
-    """
-    get test records for specific player
-    """
-
-    def __init__(self, name, country, level):
-        super().__init__(country, level)
-        self.name = name
-
-    def get(self):
-        print('get player records.')
-
-    def save(self):
-        print('save player records.')
-
-
-class OneDay(Players):
-    """
-    get on day international records for specific player
-    """
-
-    def __init__(self, name, country, level):
-        super().__init__(country, level)
-        self.name = name
-
-    def get(self):
-        print('get player records.')
-
-    def save(self):
-        print('save player records.')
-
-
-class T20(Players):
-    """
-    get twenty-twenty international records for specific player
-    """
-
-    def __init__(self, name, country, level):
-        super().__init__(country, level)
-        self.name = name
-
-    def get(self):
-        print('get player records.')
-
-    def save(self):
-        print('save player records.')
-
-
-class ASeries(Players):
-    """
-    get A-series records for specific player
-    """
-
-    def __init__(self, name, country, level):
-        super().__init__(country, level)
-        self.name = name
-
-    def get(self):
-        print('get player records.')
-
-    def save(self):
-        print('save player records.')
-
-
-class FirstClass(Players):
-    """
-    get first class records for specific player
-    """
-
-    def __init__(self, name, country, level):
-        super().__init__(country, level)
-        self.name = name
-
-    def get(self):
-        print('get player records.')
-
-    def save(self):
-        print('save player records.')
-
-
-def get_records_on(format='test', name=None):
-    """
-    get player records
-    :param format:
-    :param name:
-    :return:
-    """
-    formats = dict(test=Test(name),
-                   odi=OneDay(name),
-                   t20=T20(name),
-                   aseries=ASeries(name),
-                   firstclass=FirstClass(name))
-    return formats[format]
 
 
 def get_countries(country):
@@ -175,9 +83,10 @@ def get_countries(country):
     return countries[country]
 
 
-def get_players(country, level='INTERNATIONAL'):
+def get_players(country, level, active):
     """
     request player ids
+    :param active: active or not
     :param country: country
     :param level: format level
     :return: datafram
@@ -187,7 +96,7 @@ def get_players(country, level='INTERNATIONAL'):
 
     base = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/search?mode=BOTH&page=1&records={RECORDS}'
     country_filter = f'&filterTeamId={country_page}&'
-    format_level_filter = f'filterFormatLevel={level}&sort=ALPHA_ASC&filterActive=true'
+    format_level_filter = f'filterFormatLevel={level}&sort=ALPHA_ASC&filterActive={active}'
     full_url = base + country_filter + format_level_filter
 
     respond = requests.get(full_url).json()
@@ -197,6 +106,9 @@ def get_players(country, level='INTERNATIONAL'):
     link_list = pd.DataFrame(link_list, columns=['objectId', 'longName', 'link'])
 
     try:
+        if not os.path.exists(f'../data'):
+            os.makedirs(f'../data')
+
         if not os.path.exists(f'../data/{country}'):
             os.makedirs(f'../data/{country}')
 
@@ -220,3 +132,30 @@ def get_players(country, level='INTERNATIONAL'):
 
     except FileNotFoundError:
         print('file not found.')
+
+
+def players_details(country, level='INTERNATIONAL', active=True):
+    """
+    get player stat and details then save them as json file
+    :param active: player currently active
+    :param country: country
+    :param level: format level
+    :return: json file
+    """
+    country_players = Players(country, level, active)
+    players = country_players.__player_links__
+
+    for index in players['objectId']:
+        dtl = country_players.get_player_dtl(index)
+        stat = country_players.get_player_stat(index)
+        player = {'player': dtl['player'],
+                  'teams': dtl['content']['teams']}
+
+        if not os.path.exists(f'../data/{country}/Players'):
+            os.makedirs(f'../data/{country}/Players')
+
+        with open(f'../data/{country}/Players/player_stat_{index}.json', 'w') as player_path:
+            json.dump(stat, player_path)
+
+        with open(f'../data/{country}/Players/player_dtl_{index}.json', 'w') as player_path:
+            json.dump(player, player_path)
