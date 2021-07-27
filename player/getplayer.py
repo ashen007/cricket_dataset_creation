@@ -51,14 +51,48 @@ class Players:
         except error.URLError as e:
             print('Error Occurred: ', e.reason)
 
-    def get_player_stat(self, player):
+    def get_player_test_stat(self, player, playing_type):
         """
         player stata so far
         :param player: player id
         :return:
         """
         # player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
-        stat_page = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats?playerId={player}'
+        # https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats/summary?playerId=50710&recordClassId=3&type=ALLROUND
+        stat_page = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats/summary?playerId={player}' \
+                    f'&recordClassId={1}&type={playing_type}'
+
+        try:
+            respond = requests.get(stat_page).json()
+            return respond
+        except error.URLError as e:
+            print('Error Occurred: ', e.reason)
+
+    def get_player_odi_stat(self, player, playing_type):
+        """
+        player stata so far
+        :param player: player id
+        :return:
+        """
+        # player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        stat_page = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats/summary?playerId={player}' \
+                    f'&recordClassId={2}&type={playing_type}'
+
+        try:
+            respond = requests.get(stat_page).json()
+            return respond
+        except error.URLError as e:
+            print('Error Occurred: ', e.reason)
+
+    def get_player_t20_stat(self, player, playing_type):
+        """
+        player stata so far
+        :param player: player id
+        :return:
+        """
+        # player = self.__player_links__[self.__player_links__['longName'] == player]['objectId']
+        stat_page = f'https://hs-consumer-api.espncricinfo.com/v1/pages/player/stats/summary?playerId={player}' \
+                    f'&recordClassId={3}&type={playing_type}'
 
         try:
             respond = requests.get(stat_page).json()
@@ -142,20 +176,35 @@ def players_details(country, level='INTERNATIONAL', active=True):
     :param level: format level
     :return: json file
     """
+    playing_types = ['BATTING', 'BOWLING', 'FIELDING', 'ALLROUND']
     country_players = Players(country, level, active)
     players = country_players.__player_links__
 
     for index in players['objectId']:
         dtl = country_players.get_player_dtl(index)
-        stat = country_players.get_player_stat(index)
-        player = {'player': dtl['player'],
-                  'teams': dtl['content']['teams']}
 
         if not os.path.exists(f'../data/{country}/Players'):
             os.makedirs(f'../data/{country}/Players')
 
-        with open(f'../data/{country}/Players/player_stat_{index}.json', 'w') as player_path:
-            json.dump(stat, player_path)
+        if not os.path.exists(f'../data/{country}/Players/{index}'):
+            os.makedirs(f'../data/{country}/Players/{index}')
 
-        with open(f'../data/{country}/Players/player_dtl_{index}.json', 'w') as player_path:
+        for cat in playing_types:
+            test = country_players.get_player_test_stat(index, cat)
+            odi = country_players.get_player_odi_stat(index, cat)
+            t20 = country_players.get_player_t20_stat(index, cat)
+
+            with open(f'../data/{country}/Players/{index}/player_test_{cat}.json', 'w') as player_path:
+                json.dump(test, player_path)
+
+            with open(f'../data/{country}/Players/{index}/player_odi_{cat}.json', 'w') as player_path:
+                json.dump(odi, player_path)
+
+            with open(f'../data/{country}/Players/{index}/player_t20_{cat}.json', 'w') as player_path:
+                json.dump(t20, player_path)
+
+        player = {'player': dtl['player'],
+                  'teams': dtl['content']['teams']}
+
+        with open(f'../data/{country}/Players/{index}/player_dtl.json', 'w') as player_path:
             json.dump(player, player_path)
